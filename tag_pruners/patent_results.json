@@ -1,0 +1,472 @@
+{
+    "6468537": {
+        "title": "Localization of major peptide autoepitopes for nucleosome specific T cells of systemic lupus erythematosus",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "The present invention includes peptides derived from nucleosomal histone proteins which are useful for delaying the onset and progression of systemic lupus erythematosus (i.e. lupus or SLE). The peptides of the invention span the histone proteins (i.e. H1, H2A, H2B, H3, and H4). The invention additionally encompasses isolated nucleic acids which encode these histone peptides as well as pharmaceutical compositions which comprise one or more of a histone peptide. Further, the invention provides kits which comprise one or more histone peptides or isolated nucleic acids encoding histone peptides and an instructional material. The invention also provides methods of using these compositions and analogs of histone peptides to inhibit an immune response and associated inflammation in an animal and to treat disorders in an animal which are related to the production of autoantibodies and complications thereof, such as inflammatory diseases, autoimmune disorders, and nephritis.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "histone",
+                "nucleosome",
+                "peptide",
+                "chemistry",
+                "nucleic acid",
+                "autoantibody",
+                "lupus",
+                "biology",
+                "molecular biology",
+                "biochemistry"
+            ],
+            "scores": [
+                0.7100147008895874,
+                0.6077548265457153,
+                0.5382905006408691,
+                0.4635407626628876,
+                0.4617362916469574,
+                0.4606912136077881,
+                0.4179935157299042,
+                0.38887321949005127,
+                0.3645612597465515,
+                0.333636999130249
+            ],
+            "tag_ids": [
+                64927066,
+                84772758,
+                2779281246,
+                185592680,
+                24107716,
+                163764329,
+                2776912625,
+                86803240,
+                153911025,
+                55493867
+            ],
+            "time": 2.2482547760009766
+        }
+    },
+    "10494401": {
+        "title": "LLP2A-bisphosphonate conjugates for osteoporosis treatment",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "The present invention provides compounds and pharmaceutical compositions of a peptidomimetic ligand, e.g. LLP2A, conjugated with a bisphosphonate drug, e.g. Alendronate. The compounds and pharmaceutical compositions of the present invention are useful in the treatment of osteoporosis and for the promotion of bone growth due to their specificity for the \u03b14\u03b21 integrin on mesenchymal stem cells and for the surface of bone.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "peptidomimetic",
+                "osteoporosis",
+                "bisphosphonate",
+                "conjugate",
+                "pharmacology",
+                "chemistry",
+                "mesenchymal stem cell",
+                "drug",
+                "cancer research",
+                "medicine"
+            ],
+            "scores": [
+                0.774168848991394,
+                0.7610518932342529,
+                0.7554680705070496,
+                0.7415347695350647,
+                0.5067029595375061,
+                0.4680962562561035,
+                0.4162295162677765,
+                0.4150143563747406,
+                0.39095303416252136,
+                0.3656809628009796
+            ],
+            "tag_ids": [
+                124790011,
+                2776541429,
+                2777251235,
+                197336794,
+                98274493,
+                185592680,
+                198826908,
+                2780035454,
+                502942594,
+                71924100
+            ],
+            "time": 4.185976982116699
+        }
+    },
+    "10703966": {
+        "title": "Chromic luminescent compositions and textiles",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "A chromic luminescent composition and method for fabricating the composition are disclosed. The chromic luminescent composition comprises at least one or more non-luminescent materials and one or more luminescent materials. The one or more non-luminescent materials having absorption spectra that at least partially overlap with the spectrum of incident electromagnetic radiation. The one or more luminescent materials convert at least a portion of energy of incident electromagnetic radiation to a lower energy wavelength. The one or more non-luminescent materials and the one or more luminescent materials are selected such that, when subsequently exposed to incident electromagnetic radiation, color and brightness are substantially modulated through absorption and emission as a function of incident electromagnetic radiation. Also disclosed are a chromic luminescent textile and a method for fabricating the textile.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "luminescence",
+                "materials science",
+                "absorption",
+                "electromagnetic radiation",
+                "radiation",
+                "wavelength",
+                "brightness",
+                "optoelectronics",
+                "electromagnetic spectrum",
+                "textile"
+            ],
+            "scores": [
+                0.9071221351623535,
+                0.6781396269798279,
+                0.6061299443244934,
+                0.5422859787940979,
+                0.5235100984573364,
+                0.5208723545074463,
+                0.48163145780563354,
+                0.4582172930240631,
+                0.43940362334251404,
+                0.42992016673088074
+            ],
+            "tag_ids": [
+                148869448,
+                192562407,
+                125287762,
+                149773537,
+                153385146,
+                6260449,
+                125245961,
+                49040817,
+                155761240,
+                164767435
+            ],
+            "time": 0.23627901077270508
+        }
+    },
+    "8846184": {
+        "title": "Chromic luminescent objects",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "A chromic luminescent object comprising one or more chromic luminescent compositions incorporated into or onto one or more portions of the object, in which the one or more chromic luminescent compositions are selected such that, when subsequently exposed to incident electromagnetic radiation, at least brightness of the one or more portions of the object is substantially modulated through absorption and emission as a function of incident electromagnetic radiation is disclosed. Also disclosed are methods for fabricating the chromic luminescent object.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "luminescence",
+                "brightness",
+                "materials science",
+                "absorption",
+                "radiation",
+                "object",
+                "photochemistry",
+                "optoelectronics"
+            ],
+            "scores": [
+                0.8028698563575745,
+                0.6276920437812805,
+                0.5479552745819092,
+                0.5157316327095032,
+                0.4761764407157898,
+                0.4663146436214447,
+                0.3933042287826538,
+                0.37773990631103516
+            ],
+            "tag_ids": [
+                148869448,
+                125245961,
+                192562407,
+                125287762,
+                153385146,
+                2781238097,
+                75473681,
+                49040817
+            ],
+            "time": 0.11869215965270996
+        }
+    },
+    "9119884": {
+        "title": "LLP2A-bisphosphonate conjugates for osteoporosis treatment",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "The present invention provides compounds and pharmaceutical compositions of a peptidomimetic ligand, e.g. LLP2A, conjugated with a bisphosphonate drug, e.g. Alendronate. The compounds and pharmaceutical compositions of the present invention are useful in the treatment of osteoporosis and for the promotion of bone growth due to their specificity for the \u03b14\u03b21 integrin on mesenchymal stem cells and for the surface of bone.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "peptidomimetic",
+                "osteoporosis",
+                "bisphosphonate",
+                "conjugate",
+                "pharmacology",
+                "chemistry",
+                "mesenchymal stem cell",
+                "drug",
+                "cancer research",
+                "medicine"
+            ],
+            "scores": [
+                0.774168848991394,
+                0.7610518932342529,
+                0.7554680705070496,
+                0.7415347695350647,
+                0.5067029595375061,
+                0.4680962562561035,
+                0.4162295162677765,
+                0.4150143563747406,
+                0.39095303416252136,
+                0.3656809628009796
+            ],
+            "tag_ids": [
+                124790011,
+                2776541429,
+                2777251235,
+                197336794,
+                98274493,
+                185592680,
+                198826908,
+                2780035454,
+                502942594,
+                71924100
+            ],
+            "time": 0.13802385330200195
+        }
+    },
+    "9469807": {
+        "title": "Chromic luminescent compositions and textiles",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "A chromic luminescent composition and method for fabricating the composition are disclosed. The chromic luminescent composition comprises at least one or more non-luminescent materials and one or more luminescent materials. The one or more non-luminescent materials having absorption spectra that at least partially overlap with the spectrum of incident electromagnetic radiation. The one or more luminescent materials convert at least a portion of energy of incident electromagnetic radiation to a lower energy wavelength. The one or more non-luminescent materials and the one or more luminescent materials are selected such that, when subsequently exposed to incident electromagnetic radiation, color and brightness are substantially modulated through absorption and emission as a function of incident electromagnetic radiation. Also disclosed are a chromic luminescent textile and a method for fabricating the textile.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "luminescence",
+                "materials science",
+                "absorption",
+                "electromagnetic radiation",
+                "radiation",
+                "wavelength",
+                "brightness",
+                "optoelectronics",
+                "electromagnetic spectrum",
+                "textile"
+            ],
+            "scores": [
+                0.9071221351623535,
+                0.6781396269798279,
+                0.6061299443244934,
+                0.5422859787940979,
+                0.5235100984573364,
+                0.5208723545074463,
+                0.48163145780563354,
+                0.4582172930240631,
+                0.43940362334251404,
+                0.42992016673088074
+            ],
+            "tag_ids": [
+                148869448,
+                192562407,
+                125287762,
+                149773537,
+                153385146,
+                6260449,
+                125245961,
+                49040817,
+                155761240,
+                164767435
+            ],
+            "time": 0.36044979095458984
+        }
+    },
+    "9493699": {
+        "title": "Chromic luminescent compositions and textiles",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "A chromic luminescent composition and method for fabricating the composition are disclosed. The chromic luminescent composition comprises at least one or more non-luminescent materials and one or more luminescent materials. The one or more non-luminescent materials having absorption spectra that at least partially overlap with the spectrum of incident electromagnetic radiation. The one or more luminescent materials convert at least a portion of energy of incident electromagnetic radiation to a lower energy wavelength. The one or more non-luminescent materials and the one or more luminescent materials are selected such that, when subsequently exposed to incident electromagnetic radiation, color and brightness are substantially modulated through absorption and emission as a function of incident electromagnetic radiation. Also disclosed are a chromic luminescent textile and a method for fabricating the textile.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "luminescence",
+                "materials science",
+                "absorption",
+                "electromagnetic radiation",
+                "radiation",
+                "wavelength",
+                "brightness",
+                "optoelectronics",
+                "electromagnetic spectrum",
+                "textile"
+            ],
+            "scores": [
+                0.9071221351623535,
+                0.6781396269798279,
+                0.6061299443244934,
+                0.5422859787940979,
+                0.5235100984573364,
+                0.5208723545074463,
+                0.48163145780563354,
+                0.4582172930240631,
+                0.43940362334251404,
+                0.42992016673088074
+            ],
+            "tag_ids": [
+                148869448,
+                192562407,
+                125287762,
+                149773537,
+                153385146,
+                6260449,
+                125245961,
+                49040817,
+                155761240,
+                164767435
+            ],
+            "time": 0.13082385063171387
+        }
+    },
+    "9561256": {
+        "title": "LLP2A-bisphosphonate conjugates for osteoporosis treatment",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "The present invention provides compounds and pharmaceutical compositions of a peptidomimetic ligand, e.g. LLP2A, conjugated with a bisphosphonate drug, e.g. Alendronate. The compounds and pharmaceutical compositions of the present invention are useful in the treatment of osteoporosis and for the promotion of bone growth due to their specificity for the \u03b14\u03b21 integrin on mesenchymal stem cells and for the surface of bone.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "peptidomimetic",
+                "osteoporosis",
+                "bisphosphonate",
+                "conjugate",
+                "pharmacology",
+                "chemistry",
+                "mesenchymal stem cell",
+                "drug",
+                "cancer research",
+                "medicine"
+            ],
+            "scores": [
+                0.774168848991394,
+                0.7610518932342529,
+                0.7554680705070496,
+                0.7415347695350647,
+                0.5067029595375061,
+                0.4680962562561035,
+                0.4162295162677765,
+                0.4150143563747406,
+                0.39095303416252136,
+                0.3656809628009796
+            ],
+            "tag_ids": [
+                124790011,
+                2776541429,
+                2777251235,
+                197336794,
+                98274493,
+                185592680,
+                198826908,
+                2780035454,
+                502942594,
+                71924100
+            ],
+            "time": 0.11537504196166992
+        }
+    },
+    "5965521": {
+        "title": "Pulsatile delivery of leptin receptor ligands",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "This invention provides a method for optimizing the administration of leptin receptor ligands to a mammal in need of such treatment. More specifically, this invention provides an improved method of delivering leptin receptor ligands to a mammal in need of such treatment comprising pulsatile or peak delivery of leptin receptor ligands to treat obesity and related conditions, including hyperglucocorticoidinemia, fertility or delayed puberty, and/or growth hormone deficiencies.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "leptin",
+                "pulsatile flow",
+                "leptin receptor",
+                "internal medicine",
+                "endocrinology",
+                "receptor",
+                "chemistry",
+                "hormone"
+            ],
+            "scores": [
+                0.8735887408256531,
+                0.8622800707817078,
+                0.6903243064880371,
+                0.6385403871536255,
+                0.6194525957107544,
+                0.6028929948806763,
+                0.4737442433834076,
+                0.42602401971817017
+            ],
+            "tag_ids": [
+                2780613262,
+                79191276,
+                14372207,
+                126322002,
+                134018914,
+                170493617,
+                185592680,
+                71315377
+            ],
+            "time": 0.11739802360534668
+        }
+    },
+    "6617961": {
+        "title": "Security system for a vehicle and method of operating same",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "A security system for a vehicle comprising a frame and a combination remote keyless entry and passive security system including at least one antenna mounted on the frame.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "frame",
+                "security system",
+                "computer science",
+                "embedded system",
+                "antenna",
+                "computer security",
+                "real time computing",
+                "computer hardware",
+                "operating system"
+            ],
+            "scores": [
+                0.7848392128944397,
+                0.7285475134849548,
+                0.6393743753433228,
+                0.45697885751724243,
+                0.4455290734767914,
+                0.35721665620803833,
+                0.33727577328681946,
+                0.3357159197330475,
+                0.32082587480545044
+            ],
+            "tag_ids": [
+                126042441,
+                2984192347,
+                41008148,
+                149635348,
+                21822782,
+                38652104,
+                79403827,
+                9390403,
+                111919701
+            ],
+            "time": 0.13178586959838867
+        }
+    },
+    "D453823": {
+        "title": "Vehicle pet ventilator",
+        "doc_type": "patent",
+        "journal": null,
+        "abstract": "NULL",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "null",
+                "medicine",
+                "computer science"
+            ],
+            "scores": [
+                0.4539163410663605,
+                0.3739548623561859,
+                0.3723984360694885
+            ],
+            "tag_ids": [
+                203763787,
+                71924100,
+                41008148
+            ],
+            "time": 0.11924982070922852
+        }
+    }
+}

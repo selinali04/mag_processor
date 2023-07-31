@@ -1,0 +1,2825 @@
+{
+    "Nancy+Lane1": {
+        "title": "Prospective Study to Assess Changes in the Number and Activity of Pre-Osteoclasts and Osteoclasts Over Time in Postmenopausal Women Treated With Denosumab or Zoledronic Acid",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This study evaluates how patients treated with denosumab or zoledronic acid for osteoporosis may change the number of peripheral osteoclast precursors and osteoclast activity, and how that may be associated with changes in bone mass.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "denosumab",
+                "zoledronic acid",
+                "medicine",
+                "osteoclast",
+                "postmenopausal women",
+                "osteoporosis",
+                "postmenopausal osteoporosis",
+                "internal medicine",
+                "prospective cohort study",
+                "urology",
+                "endocrinology",
+                "oncology"
+            ],
+            "scores": [
+                0.9395928978919983,
+                0.9279481172561646,
+                0.8324583768844604,
+                0.7332442998886108,
+                0.7243300080299377,
+                0.6273888945579529,
+                0.5408161282539368,
+                0.5349850058555603,
+                0.5169843435287476,
+                0.36819735169410706,
+                0.34300124645233154,
+                0.33662766218185425
+            ],
+            "tag_ids": [
+                2776286101,
+                2776326535,
+                71924100,
+                2776033226,
+                3018603563,
+                2776541429,
+                3018571302,
+                126322002,
+                188816634,
+                126894567,
+                134018914,
+                143998085
+            ],
+            "time": 0.5653581619262695
+        },
+        "remaining_results": {
+            "tags": [
+                "Denosumab",
+                "Zoledronic acid",
+                "Medicine",
+                "Osteoclast",
+                "Postmenopausal women",
+                "Osteoporosis",
+                "Postmenopausal osteoporosis",
+                "Internal medicine",
+                "Prospective cohort study",
+                "Urology",
+                "Endocrinology",
+                "Oncology"
+            ],
+            "tag_ids": [
+                2776286101,
+                2776326535,
+                71924100,
+                2776033226,
+                3018603563,
+                2776541429,
+                3018571302,
+                126322002,
+                188816634,
+                126894567,
+                134018914,
+                143998085
+            ]
+        }
+    },
+    "Nancy+Lane2": {
+        "title": "Toward Better Outcomes in Osteoarthritis (OA): Finding the Appropriate Role for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This study will determine if there is a difference between commonly used nonsteroidal anti-inflammatory drugs (NSAIDs) and acetaminophen (a pain-reliever that does not prevent inflammation) for treating knee pain in osteoarthritis (OA). The two main results we will look at are disease progression according to x-rays and disability over 3.5 years. Study participants with moderate knee OA and knee pain will continue taking their NSAID or stop taking their NSAID and start taking acetaminophen. Every 6 months we will send the participants questionnaires that ask about pain, medication use, and disability. We will take x-rays of the knees at the start of the study and again at the end of the study.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "osteoarthritis",
+                "nonsteroidal",
+                "acetaminophen",
+                "anti inflammatory",
+                "internal medicine",
+                "knee pain",
+                "physical therapy"
+            ],
+            "scores": [
+                0.9305062890052795,
+                0.8922737240791321,
+                0.8302280306816101,
+                0.7969775199890137,
+                0.664546012878418,
+                0.5417914390563965,
+                0.5022448897361755,
+                0.49552738666534424
+            ],
+            "tag_ids": [
+                71924100,
+                2776164576,
+                2778484676,
+                2778722691,
+                2779703632,
+                126322002,
+                2779279471,
+                1862650
+            ],
+            "time": 0.5268218517303467
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Osteoarthritis",
+                "Nonsteroidal",
+                "Acetaminophen",
+                "Anti-inflammatory",
+                "Internal medicine",
+                "Knee pain",
+                "Physical therapy"
+            ],
+            "tag_ids": [
+                71924100,
+                2776164576,
+                2778484676,
+                2778722691,
+                2779703632,
+                126322002,
+                2779279471,
+                1862650
+            ]
+        }
+    },
+    "Nancy+Lane3": {
+        "title": "Non-thermal Pulsed Radio Frequency for Pain Amelioration in Adults With Knee Osteoarthritis: A Double-blind, Randomized, Sham-controlled Trial",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "The purpose of this study is to determine the effectiveness of non-thermal Pulsed Radio Frequency (PRF) treatment with the Ivivi SofPulse for amelioration of knee pain in patients with mild to moderate Osteoarthritis and to determine the duration of clinical benefit following discontinuation of treatment.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "osteoarthritis",
+                "discontinuation",
+                "double blind",
+                "randomized controlled trial",
+                "pulsed radiofrequency",
+                "anesthesia",
+                "physical therapy"
+            ],
+            "scores": [
+                0.8682679533958435,
+                0.83988356590271,
+                0.7848056554794312,
+                0.6627950072288513,
+                0.5485714673995972,
+                0.4226142466068268,
+                0.3915867805480957,
+                0.3661958873271942
+            ],
+            "tag_ids": [
+                71924100,
+                2776164576,
+                2778715236,
+                2991744798,
+                168563851,
+                2780934536,
+                42219234,
+                1862650
+            ],
+            "time": 0.15958714485168457
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Osteoarthritis",
+                "Discontinuation",
+                "Double blind",
+                "Randomized controlled trial",
+                "Anesthesia",
+                "Physical therapy"
+            ],
+            "tag_ids": [
+                71924100,
+                2776164576,
+                2778715236,
+                2991744798,
+                168563851,
+                42219234,
+                1862650
+            ]
+        }
+    },
+    "Nancy+Lane4": {
+        "title": "A Phase 1, Randomized, Double-Blind, Placebo-Controlled Single and Multiple Ascending Dose Study of the Safety and Tolerability of Intravenous LLP2A-Alendronate in Adult Men and Women With Osteopenia Secondary to Glucocorticoids",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "A Phase 1 Randomized, Double-Blind, Placebo-Controlled Single and Multiple Ascending Dose Study of the Safety and Tolerability of Intravenous LLP2A-Alendronate in Adult Men and Women with Osteopenia Secondary to Corticosteroids",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "tolerability",
+                "osteopenia",
+                "placebo",
+                "medicine",
+                "double blind",
+                "internal medicine",
+                "placebo controlled study"
+            ],
+            "scores": [
+                0.866239070892334,
+                0.8215600252151489,
+                0.7533840537071228,
+                0.7093725800514221,
+                0.5828291773796082,
+                0.5018388628959656,
+                0.48536622524261475
+            ],
+            "tag_ids": [
+                2778375690,
+                2777083390,
+                27081682,
+                71924100,
+                2991744798,
+                126322002,
+                202061045
+            ],
+            "time": 0.1448078155517578
+        },
+        "remaining_results": {
+            "tags": [
+                "Tolerability",
+                "Placebo",
+                "Medicine",
+                "Double blind",
+                "Internal medicine",
+                "Placebo-controlled study"
+            ],
+            "tag_ids": [
+                2778375690,
+                27081682,
+                71924100,
+                2991744798,
+                126322002,
+                202061045
+            ]
+        }
+    },
+    "Nancy+Lane5": {
+        "title": "Can Risedronate and Parathyroid Hormone Reverse Glucocorticoid Induced Osteoporosis?",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "The purpose of the study is to learn if one year of treatment with parathyroid hormone (PTH), either alone or with risedronate, will increase the thickness of the bones in the hip and spine in subjects with osteoporosis from chronic low dose steroid use. During the second year, the study will also look at whether taking risedronate will preserve the bone thickness created by one year of rhPTH 1-34 treatment.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "internal medicine",
+                "osteoporosis",
+                "endocrinology",
+                "parathyroid hormone",
+                "glucocorticoid",
+                "hormone"
+            ],
+            "scores": [
+                0.8221294283866882,
+                0.7541148662567139,
+                0.7430088520050049,
+                0.7302718162536621,
+                0.7043196558952332,
+                0.6559743881225586,
+                0.4674105644226074
+            ],
+            "tag_ids": [
+                71924100,
+                126322002,
+                2776541429,
+                134018914,
+                2781208988,
+                2780841215,
+                71315377
+            ],
+            "time": 0.1565101146697998
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Internal medicine",
+                "Osteoporosis",
+                "Endocrinology",
+                "Parathyroid hormone",
+                "Glucocorticoid",
+                "Hormone"
+            ],
+            "tag_ids": [
+                71924100,
+                126322002,
+                2776541429,
+                134018914,
+                2781208988,
+                2780841215,
+                71315377
+            ]
+        }
+    },
+    "Jerrold+Olefsky1": {
+        "title": "Characteristics of Dendritic Cells Before and After Gastric Banding",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "A research study to find out more about a specific white blood cell called a dendritic cell. These cells are found in a layer of fat in the body called the omentum. The omentum is a layer of fat that covers the bowels (intestines) and protects them.\n\nThe purpose of this study is to allow us to compare dendritic cells in normal weight individuals to the dendritic cells of people who are extremely overweight. These cells will be collected from the omentum, the layer of fat that covers and protects the bowels (intestines), from the mesentery, which is another layer of fat that surrounds the intestines directly, and from the subcutaneous tissue, which is the layer of fat just under the skin.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "mesentery",
+                "subcutaneous fat",
+                "adipose tissue",
+                "pathology",
+                "biology",
+                "chemistry"
+            ],
+            "scores": [
+                0.5767384171485901,
+                0.5719487071037292,
+                0.4938400685787201,
+                0.4481460452079773,
+                0.38221821188926697,
+                0.339846670627594
+            ],
+            "tag_ids": [
+                2778948390,
+                3018861615,
+                171089720,
+                142724271,
+                86803240,
+                185592680
+            ],
+            "time": 0.45658302307128906
+        },
+        "remaining_results": {
+            "tags": [
+                "Mesentery",
+                "Adipose tissue",
+                "Pathology",
+                "Biology",
+                "Chemistry"
+            ],
+            "tag_ids": [
+                2778948390,
+                171089720,
+                142724271,
+                86803240,
+                185592680
+            ]
+        }
+    },
+    "Jose+Caro1": {
+        "title": "Effectiveness of a Diabetes Education Program Based on Tailored Interventions in the Andalusian Public Health and Social System (Edep-Ti Study).",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "GOALS:\n\nPRIMARY:\n\nAnalyze the overall impact of the proposed diabetes education program on metabolic control (HbA1c) and modifiable cardiovascular risk factors (lipid profile and blood pressure).\n\nSECONDARY:\n\nEvaluate the effectiveness of the program on smoking habits and body mass index (weight, height).\nAnalyze the impact of the program on the quality of life related to health.\nCheck the effect on lifestyles: compliance levels of physical exercise and adherence to diet mediterranean.\n\nDESIGN: Cluster randomized controlled trial",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "psychological intervention",
+                "medicine",
+                "body mass index",
+                "diabetes mellitus",
+                "randomized controlled trial",
+                "public health",
+                "gerontology",
+                "cluster",
+                "physical therapy",
+                "family medicine"
+            ],
+            "scores": [
+                0.6200827956199646,
+                0.6057081818580627,
+                0.5924561619758606,
+                0.5139808058738708,
+                0.47941797971725464,
+                0.4579322636127472,
+                0.43626949191093445,
+                0.4101532995700836,
+                0.38747596740722656,
+                0.3555860221385956
+            ],
+            "tag_ids": [
+                27415008,
+                71924100,
+                2780221984,
+                555293320,
+                168563851,
+                138816342,
+                74909509,
+                164866538,
+                1862650,
+                512399662
+            ],
+            "time": 0.1424250602722168
+        },
+        "remaining_results": {
+            "tags": [
+                "Psychological intervention",
+                "Medicine",
+                "Body mass index",
+                "Diabetes mellitus",
+                "Randomized controlled trial",
+                "Public health",
+                "Gerontology",
+                "Physical therapy",
+                "Family medicine"
+            ],
+            "tag_ids": [
+                27415008,
+                71924100,
+                2780221984,
+                555293320,
+                168563851,
+                138816342,
+                74909509,
+                1862650,
+                512399662
+            ]
+        }
+    },
+    "Jose+Caro2": {
+        "title": "A Phase III Clinical Trial Evaluating De-Escalation of Breast Radiation for Conservative Treatment of Stage I, Hormone Sensitive, HER-2 Negative, Oncotype Recurrence Score Less Than or Equal to 18 Breast Cancer",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This Phase III Trial evaluates whether breast conservation surgery and endocrine therapy results in a non-inferior rate of invasive or non-invasive ipsilateral breast tumor recurrence (IBTR) compared to breast conservation with breast radiation and endocrine therapy.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "oncology",
+                "internal medicine",
+                "radiation therapy",
+                "de escalation",
+                "endocrine system",
+                "clinical trial",
+                "breast cancer",
+                "conservative treatment"
+            ],
+            "scores": [
+                0.8520768880844116,
+                0.6711466908454895,
+                0.5836002230644226,
+                0.5689636468887329,
+                0.5412580370903015,
+                0.5015699863433838,
+                0.44889289140701294,
+                0.44226664304733276,
+                0.4257504642009735
+            ],
+            "tag_ids": [
+                71924100,
+                143998085,
+                126322002,
+                509974204,
+                2776056953,
+                46699223,
+                535046627,
+                530470458,
+                3019396726
+            ],
+            "time": 0.15452194213867188
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Oncology",
+                "Internal medicine",
+                "Radiation therapy",
+                "De-escalation",
+                "Endocrine system",
+                "Clinical trial",
+                "Breast cancer",
+                "Conservative treatment"
+            ],
+            "tag_ids": [
+                71924100,
+                143998085,
+                126322002,
+                509974204,
+                2776056953,
+                46699223,
+                535046627,
+                530470458,
+                3019396726
+            ]
+        }
+    },
+    "Jose+Caro3": {
+        "title": "A Randomized Phase II/III Trial of De-Intensified Radiation Therapy for Patients With Early-Stage, P16-Positive, Non-Smoking Associated Oropharyngeal Cancer",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase II/III trial studies how well a reduced dose of radiation therapy works with nivolumab compared to cisplatin in treating patients with human papillomavirus (HPV)-positive oropharyngeal cancer that is early in its growth and may not have spread to other parts of the body (early-stage), and is not associated with smoking. Radiation therapy uses high-energy x-rays to kill tumor cells and shrink tumors. Chemotherapy drugs, such as cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. This trial is being done to see if a reduced dose of radiation therapy and nivolumab works as well as standard dose radiation therapy and cisplatin in treating patients with oropharyngeal cancer.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "radiation therapy",
+                "nivolumab",
+                "cisplatin",
+                "oncology",
+                "internal medicine",
+                "cancer",
+                "chemotherapy",
+                "stage",
+                "immunotherapy"
+            ],
+            "scores": [
+                0.7982650995254517,
+                0.7840317487716675,
+                0.7781933546066284,
+                0.7116706967353821,
+                0.6599374413490295,
+                0.5976135730743408,
+                0.5266290307044983,
+                0.5219972729682922,
+                0.4364972412586212,
+                0.4300108253955841
+            ],
+            "tag_ids": [
+                71924100,
+                509974204,
+                2780030458,
+                2778239845,
+                143998085,
+                126322002,
+                121608353,
+                2776694085,
+                146357865,
+                2777701055
+            ],
+            "time": 0.15695500373840332
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Radiation therapy",
+                "Nivolumab",
+                "Cisplatin",
+                "Oncology",
+                "Internal medicine",
+                "Cancer",
+                "Chemotherapy",
+                "Immunotherapy"
+            ],
+            "tag_ids": [
+                71924100,
+                509974204,
+                2780030458,
+                2778239845,
+                143998085,
+                126322002,
+                121608353,
+                2776694085,
+                2777701055
+            ]
+        }
+    },
+    "Jose+Caro4": {
+        "title": "A Randomized Phase II/III Trial of \"Novel Therapeutics\" Versus Azacitidine in Newly Diagnosed Patients With Acute Myeloid Leukemia (AML) or High-Risk Myelodysplastic Syndrome (MDS), Age 60 or Older LEAP: Less-Intense AML Platform Trial",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This randomized phase II/III trial studies how well azacitidine with or without nivolumab or midostaurin, or decitabine and cytarabine alone work in treating older patients with newly diagnosed acute myeloid leukemia or high-risk myelodysplastic syndrome. Drugs used in chemotherapy, such as azacitidine, decitabine, and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Midostaurin may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving azacitidine with or without nivolumab or midostaurin, or decitabine and cytarabine alone may kill more cancer cells.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "decitabine",
+                "azacitidine",
+                "medicine",
+                "cytarabine",
+                "midostaurin",
+                "myeloid leukemia",
+                "oncology",
+                "internal medicine",
+                "nivolumab",
+                "myelodysplastic syndromes"
+            ],
+            "scores": [
+                0.9241631627082825,
+                0.8613588213920593,
+                0.8013024926185608,
+                0.7288798689842224,
+                0.7024840116500854,
+                0.6758333444595337,
+                0.6456003189086914,
+                0.5956777334213257,
+                0.5458342432975769,
+                0.49676087498664856
+            ],
+            "tag_ids": [
+                2780235182,
+                2776239401,
+                71924100,
+                2778041864,
+                2776481607,
+                2778729363,
+                143998085,
+                126322002,
+                2780030458,
+                2780817109
+            ],
+            "time": 0.14502406120300293
+        },
+        "remaining_results": {
+            "tags": [
+                "Decitabine",
+                "Azacitidine",
+                "Medicine",
+                "Cytarabine",
+                "Midostaurin",
+                "Myeloid leukemia",
+                "Oncology",
+                "Internal medicine",
+                "Nivolumab",
+                "Myelodysplastic syndromes"
+            ],
+            "tag_ids": [
+                2780235182,
+                2776239401,
+                71924100,
+                2778041864,
+                2776481607,
+                2778729363,
+                143998085,
+                126322002,
+                2780030458,
+                2780817109
+            ]
+        }
+    },
+    "Jose+Caro5": {
+        "title": "A Randomized, Phase III Trial to Evaluate the Efficacy and Safety of Pembrolizumab (MK-3475) as Adjuvant Therapy for Triple Receptor-Negative Breast Cancer With &gt;/= 1 CM Residual Invasive Cancer or Positive Lymph Nodes (ypN1mi, ypN1-3) After Neoadjuvant Chemotherapy",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This randomized phase III trial studies how well pembrolizumab works in treating patients with triple-negative breast cancer. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "pembrolizumab",
+                "medicine",
+                "triple negative breast cancer",
+                "oncology",
+                "internal medicine",
+                "breast cancer",
+                "adjuvant",
+                "immunotherapy",
+                "monoclonal antibody",
+                "adjuvant therapy"
+            ],
+            "scores": [
+                0.9587808847427368,
+                0.8014576435089111,
+                0.7390928268432617,
+                0.691077709197998,
+                0.6518508791923523,
+                0.6259475946426392,
+                0.5764155387878418,
+                0.5186803936958313,
+                0.47530683875083923,
+                0.4271547198295593
+            ],
+            "tag_ids": [
+                2780057760,
+                71924100,
+                2780110267,
+                143998085,
+                126322002,
+                530470458,
+                2777863537,
+                2777701055,
+                542903549,
+                2777982462
+            ],
+            "time": 0.1452176570892334
+        },
+        "remaining_results": {
+            "tags": [
+                "Pembrolizumab",
+                "Medicine",
+                "Triple-negative breast cancer",
+                "Oncology",
+                "Internal medicine",
+                "Breast cancer",
+                "Adjuvant",
+                "Immunotherapy",
+                "Monoclonal antibody",
+                "Adjuvant therapy"
+            ],
+            "tag_ids": [
+                2780057760,
+                71924100,
+                2780110267,
+                143998085,
+                126322002,
+                530470458,
+                2777863537,
+                2777701055,
+                542903549,
+                2777982462
+            ]
+        }
+    },
+    "Jose+Caro6": {
+        "title": "A Randomized Phase III Trial of Adjuvant Therapy Comparing Doxorubicin Plus Cyclophosphamide Followed by Weekly Paclitaxel With or Without Carboplatin for Node-Positive or High-Risk Node-Negative Triple-Negative Invasive Breast Cancer",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This randomized phase III trial studies how well doxorubicin hydrochloride and cyclophosphamide followed by paclitaxel with or without carboplatin work in treating patients with triple-negative breast cancer. Drugs used in chemotherapy, such as doxorubicin hydrochloride, cyclophosphamide, paclitaxel, and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether doxorubicin hydrochloride and cyclophosphamide is more effective when followed by paclitaxel alone or paclitaxel and carboplatin in treating triple-negative breast cancer.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "carboplatin",
+                "cyclophosphamide",
+                "medicine",
+                "paclitaxel",
+                "doxorubicin",
+                "triple negative breast cancer",
+                "breast cancer",
+                "oncology",
+                "internal medicine",
+                "chemotherapy",
+                "doxorubicin hydrochloride",
+                "nitrogen mustard",
+                "adjuvant"
+            ],
+            "scores": [
+                0.9396689534187317,
+                0.765853226184845,
+                0.743674635887146,
+                0.7368603944778442,
+                0.7182978987693787,
+                0.6449552774429321,
+                0.5781960487365723,
+                0.5620769262313843,
+                0.5523784160614014,
+                0.5367921590805054,
+                0.5202285647392273,
+                0.45724865794181824,
+                0.4518167972564697
+            ],
+            "tag_ids": [
+                2781451048,
+                2776755627,
+                71924100,
+                2777292972,
+                2781303535,
+                2780110267,
+                530470458,
+                143998085,
+                126322002,
+                2776694085,
+                2909829705,
+                2778670039,
+                2777863537
+            ],
+            "time": 0.16349005699157715
+        },
+        "remaining_results": {
+            "tags": [
+                "Carboplatin",
+                "Cyclophosphamide",
+                "Medicine",
+                "Paclitaxel",
+                "Doxorubicin",
+                "Triple-negative breast cancer",
+                "Breast cancer",
+                "Oncology",
+                "Internal medicine",
+                "Chemotherapy",
+                "Doxorubicin Hydrochloride",
+                "Nitrogen mustard",
+                "Adjuvant"
+            ],
+            "tag_ids": [
+                2781451048,
+                2776755627,
+                71924100,
+                2777292972,
+                2781303535,
+                2780110267,
+                530470458,
+                143998085,
+                126322002,
+                2776694085,
+                2909829705,
+                2778670039,
+                2777863537
+            ]
+        }
+    },
+    "Jose+Caro7": {
+        "title": "Phase III Randomized, Placebo-Controlled Clinical Trial Evaluating the Use of Adjuvant Endocrine Therapy +/- One Year of Everolimus in Patients With High-Risk, Hormone Receptor-Positive and HER2/Neu Negative Breast Cancer",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "RATIONALE: Estrogen can cause the growth of breast cancer cells. Hormone therapy using tamoxifen citrate, goserelin acetate, leuprolide acetate, anastrozole, letrozole, or exemestane, may fight breast cancer by lowering the amount of estrogen the body makes. Everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. It is not yet know whether hormone therapy is more effective when given with or without everolimus in treating breast cancer.\n\nPURPOSE: This randomized phase III trial studies how well giving hormone therapy together with or without everolimus work in treating patients with breast cancer.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "exemestane",
+                "letrozole",
+                "medicine",
+                "breast cancer",
+                "oncology",
+                "anastrozole",
+                "internal medicine",
+                "everolimus",
+                "tamoxifen",
+                "placebo",
+                "hormone receptor",
+                "adjuvant"
+            ],
+            "scores": [
+                0.9155378341674805,
+                0.8297804594039917,
+                0.809674859046936,
+                0.6988955140113831,
+                0.6944184303283691,
+                0.6803526878356934,
+                0.6775531768798828,
+                0.6732743382453918,
+                0.580270528793335,
+                0.4484432637691498,
+                0.44717615842819214,
+                0.4283580780029297
+            ],
+            "tag_ids": [
+                2775860665,
+                2778812593,
+                71924100,
+                530470458,
+                143998085,
+                2776215463,
+                126322002,
+                2779699572,
+                2777176818,
+                27081682,
+                23589133,
+                2777863537
+            ],
+            "time": 0.15029096603393555
+        },
+        "remaining_results": {
+            "tags": [
+                "Exemestane",
+                "Letrozole",
+                "Medicine",
+                "Breast cancer",
+                "Oncology",
+                "Anastrozole",
+                "Internal medicine",
+                "Everolimus",
+                "Tamoxifen",
+                "Placebo",
+                "Hormone receptor",
+                "Adjuvant"
+            ],
+            "tag_ids": [
+                2775860665,
+                2778812593,
+                71924100,
+                530470458,
+                143998085,
+                2776215463,
+                126322002,
+                2779699572,
+                2777176818,
+                27081682,
+                23589133,
+                2777863537
+            ]
+        }
+    },
+    "Jose+Caro8": {
+        "title": "A Randomized, Phase III, Multicenter, Double-Blind, Placebo-Controlled Study Evaluating Efficacy and Safety of Onartuzumab (Metmab) in Combination With Tarceva (Erlotinib) in Patients With Met Diagnostic-Positive Non-Small Cell Lung Cancer Who Have Received Standard Chemotherapy for Advanced/Metastatic Disease",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This randomized, multicenter, double-blind, placebo-controlled study will evaluate the efficacy and safety of onartuzumab (MetMAb) in combination with Tarceva (erlotinib) in participants with incurable non-small cell lung cancer identified to be Met diagnostic-positive. Participants will be randomized to receive either onartuzumab (MetMAb) or placebo in combination with erlotinib. Anticipated time on study treatment is until disease progression or unacceptable toxicity occurs.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "erlotinib",
+                "medicine",
+                "internal medicine",
+                "placebo",
+                "oncology",
+                "double blind",
+                "placebo controlled study",
+                "lung cancer",
+                "randomized controlled trial",
+                "erlotinib hydrochloride"
+            ],
+            "scores": [
+                0.9464644193649292,
+                0.8534363508224487,
+                0.7004031538963318,
+                0.6160535216331482,
+                0.6018812656402588,
+                0.5917410254478455,
+                0.5630619525909424,
+                0.5144355893135071,
+                0.5055019855499268,
+                0.44742730259895325
+            ],
+            "tag_ids": [
+                2778087573,
+                71924100,
+                126322002,
+                27081682,
+                143998085,
+                2991744798,
+                202061045,
+                2776256026,
+                168563851,
+                2909325608
+            ],
+            "time": 0.14496898651123047
+        },
+        "remaining_results": {
+            "tags": [
+                "Erlotinib",
+                "Medicine",
+                "Internal medicine",
+                "Placebo",
+                "Oncology",
+                "Double blind",
+                "Placebo-controlled study",
+                "Lung cancer",
+                "Randomized controlled trial",
+                "Erlotinib Hydrochloride"
+            ],
+            "tag_ids": [
+                2778087573,
+                71924100,
+                126322002,
+                27081682,
+                143998085,
+                2991744798,
+                202061045,
+                2776256026,
+                168563851,
+                2909325608
+            ]
+        }
+    },
+    "Jose+Caro9": {
+        "title": "Raptiva Epidemiologic Study of Psoriasis Outcomes and Safety Events in Patients With Chronic Moderate to Severe Plaque Psoriasis (RESPONSE)",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This was a multicenter, prospective, 5-year surveillance study of approximately 5000 Raptiva-treated patients and approximately 500 non-Raptiva treated patients (formerly 2500 comparison patients who were treated with a biologic therapy other than Raptiva) with chronic moderate to severe plaque psoriasis who were candidates for treatment with Raptiva.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "plaque psoriasis",
+                "medicine",
+                "psoriasis",
+                "dermatology",
+                "internal medicine",
+                "multicenter study"
+            ],
+            "scores": [
+                0.9558666944503784,
+                0.9458359479904175,
+                0.8429898023605347,
+                0.6135504841804504,
+                0.5294461250305176,
+                0.46739041805267334
+            ],
+            "tag_ids": [
+                3020604521,
+                71924100,
+                2780564577,
+                16005928,
+                126322002,
+                2992435398
+            ],
+            "time": 0.13152575492858887
+        },
+        "remaining_results": {
+            "tags": [
+                "Plaque psoriasis",
+                "Medicine",
+                "Psoriasis",
+                "Dermatology",
+                "Internal medicine"
+            ],
+            "tag_ids": [
+                3020604521,
+                71924100,
+                2780564577,
+                16005928,
+                126322002
+            ]
+        }
+    },
+    "Jose+Caro10": {
+        "title": "Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This Phase II/III trial will evaluate the what kind of chemotherapy to recommend to patients based on the presence or absences of circulating tumor DNA (ctDNA) after surgery for colon cancer.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "internal medicine",
+                "oncology",
+                "colorectal cancer",
+                "adjuvant chemotherapy",
+                "chemotherapy",
+                "circulating tumor dna",
+                "disease",
+                "gastroenterology"
+            ],
+            "scores": [
+                0.851089596748352,
+                0.7381774187088013,
+                0.6873058676719666,
+                0.6756868362426758,
+                0.6182318329811096,
+                0.5334293246269226,
+                0.4362819194793701,
+                0.4164174199104309,
+                0.35078898072242737
+            ],
+            "tag_ids": [
+                71924100,
+                126322002,
+                143998085,
+                526805850,
+                3018227240,
+                2776694085,
+                2781335228,
+                2779134260,
+                90924648
+            ],
+            "time": 0.14664125442504883
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Internal medicine",
+                "Oncology",
+                "Colorectal cancer",
+                "Adjuvant chemotherapy",
+                "Chemotherapy",
+                "Circulating tumor DNA",
+                "Disease",
+                "Gastroenterology"
+            ],
+            "tag_ids": [
+                71924100,
+                126322002,
+                143998085,
+                526805850,
+                3018227240,
+                2776694085,
+                2781335228,
+                2779134260,
+                90924648
+            ]
+        }
+    },
+    "Jose+Caro11": {
+        "title": "Randomized Phase III Trial of mFOLFIRINOX vs. FOLFOX With Nivolumab for First-Line Treatment of Metastatic HER2- Gastroesophageal Adenocarcinoma",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase III trial compares the effect of modified fluorouracil, leucovorin calcium, oxaliplatin, and irinotecan (mFOLFIRINOX) to modified fluorouracil, leucovorin calcium, and oxaliplatin (mFOLFOX) for the treatment of advanced, unresectable, or metastatic HER2 negative esophageal, gastroesophageal junction, and gastric adenocarcinoma. The usual approach for patients is treatment with FOLFOX chemotherapy. Chemotherapy drugs work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Fluorouracil stops cells from making DNA and it may kill tumor cells. Leucovorin is used with fluorouracil to enhance the effects of the drug. Oxaliplatin works by killing, stopping, or slowing the growth of tumor cells. Some patients also receive an immunotherapy drug, nivolumab, in addition to FOLFOX chemotherapy. Immunotherapy may induce changes in body's immune system and may interfere with the ability of tumor cells to grow and spread. Irinotecan blocks certain enzymes needed for cell division and DNA repair, and it may kill tumor cells. Adding irinotecan to the FOLFOX regimen could shrink the cancer and extend the life of patients with advanced gastroesophageal cancers.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "oxaliplatin",
+                "folfox",
+                "irinotecan",
+                "medicine",
+                "nivolumab",
+                "chemotherapy",
+                "fluorouracil",
+                "internal medicine",
+                "regimen",
+                "oncology",
+                "folfiri",
+                "cancer research"
+            ],
+            "scores": [
+                0.8440977334976196,
+                0.8208147287368774,
+                0.8096550107002258,
+                0.7250136733055115,
+                0.6200504302978516,
+                0.5755794048309326,
+                0.5740308165550232,
+                0.547236979007721,
+                0.5311955809593201,
+                0.5247195363044739,
+                0.50132155418396,
+                0.3584214746952057
+            ],
+            "tag_ids": [
+                2780962732,
+                2778260052,
+                2780259306,
+                71924100,
+                2780030458,
+                2776694085,
+                2780456651,
+                126322002,
+                2781413609,
+                143998085,
+                2776705615,
+                502942594
+            ],
+            "time": 0.1700000762939453
+        },
+        "remaining_results": {
+            "tags": [
+                "Oxaliplatin",
+                "FOLFOX",
+                "Irinotecan",
+                "Medicine",
+                "Nivolumab",
+                "Chemotherapy",
+                "Fluorouracil",
+                "Internal medicine",
+                "Regimen",
+                "Oncology",
+                "FOLFIRI",
+                "Cancer research"
+            ],
+            "tag_ids": [
+                2780962732,
+                2778260052,
+                2780259306,
+                71924100,
+                2780030458,
+                2776694085,
+                2780456651,
+                126322002,
+                2781413609,
+                143998085,
+                2776705615,
+                502942594
+            ]
+        }
+    },
+    "Jose+Caro12": {
+        "title": "A Phase III Trial of Gleostine\u00ae (Lomustine)-Temozolomide Combination Therapy Versus Standard Temozolomide in Patients With Methylated MGMT Promoter Glioblastoma",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase III trial compares the effect of adding lomustine to temozolomide and radiation therapy versus temozolomide and radiation therapy alone in shrinking or stabilizing newly diagnosed MGMT methylated glioblastoma. Chemotherapy drugs, such as lomustine and temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Radiation therapy uses high energy photons to kill tumor cells and shrink tumors. Adding lomustine to usual treatment of temozolomide and radiation therapy may help shrink and stabilize glioblastoma.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "temozolomide",
+                "lomustine",
+                "radiation therapy",
+                "medicine",
+                "cancer research",
+                "chemotherapy",
+                "combination therapy",
+                "radiosensitizer",
+                "dacarbazine",
+                "phases of clinical research",
+                "oncology",
+                "internal medicine"
+            ],
+            "scores": [
+                0.978802502155304,
+                0.9662365913391113,
+                0.6229636669158936,
+                0.5657608509063721,
+                0.5088405609130859,
+                0.475965678691864,
+                0.45073074102401733,
+                0.4446215331554413,
+                0.42086154222488403,
+                0.41013064980506897,
+                0.4064217805862427,
+                0.3590700030326843
+            ],
+            "tag_ids": [
+                2777389519,
+                2779434656,
+                509974204,
+                71924100,
+                502942594,
+                2776694085,
+                2776999253,
+                2776428644,
+                2780964509,
+                31760486,
+                143998085,
+                126322002
+            ],
+            "time": 0.15417075157165527
+        },
+        "remaining_results": {
+            "tags": [
+                "Temozolomide",
+                "Lomustine",
+                "Radiation therapy",
+                "Medicine",
+                "Cancer research",
+                "Chemotherapy",
+                "Combination therapy",
+                "Radiosensitizer",
+                "Dacarbazine",
+                "Phases of clinical research",
+                "Oncology",
+                "Internal medicine"
+            ],
+            "tag_ids": [
+                2777389519,
+                2779434656,
+                509974204,
+                71924100,
+                502942594,
+                2776694085,
+                2776999253,
+                2776428644,
+                2780964509,
+                31760486,
+                143998085,
+                126322002
+            ]
+        }
+    },
+    "Jose+Caro13": {
+        "title": "Duration of Immune Checkpoint Therapy in Locally Advanced or Metastatic Urothelial Carcinoma: A Randomized Phase 3 Non-Inferiority Trial (IMAGINE)",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase III trial compares survival in urothelial cancer patients who stop immune checkpoint inhibitor treatment after being treated for about a year to those patients who continue treatment with immune checkpoint inhibitors. Immunotherapy with monoclonal antibodies, such as avelumab, durvalumab, pembrolizumab, atezolizumab, and nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Stopping immune checkpoint inhibitors early may still make the tumor shrink and patients may have similar survival rates as the patients who continue treatment. Stopping treatment early may also lead to fewer treatment-related side effects, an improvement in mental health, and a lower cost burden to patients.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "durvalumab",
+                "avelumab",
+                "atezolizumab",
+                "nivolumab",
+                "pembrolizumab",
+                "medicine",
+                "oncology",
+                "internal medicine",
+                "immunotherapy",
+                "immune checkpoint",
+                "metastatic urothelial carcinoma",
+                "ipilimumab"
+            ],
+            "scores": [
+                0.9707087874412537,
+                0.9553191065788269,
+                0.8937399983406067,
+                0.8877745866775513,
+                0.8744280338287354,
+                0.7969213128089905,
+                0.6859961152076721,
+                0.6030393242835999,
+                0.5292486548423767,
+                0.5182435512542725,
+                0.5144925117492676,
+                0.4165588319301605
+            ],
+            "tag_ids": [
+                2777742743,
+                2777381376,
+                2775949291,
+                2780030458,
+                2780057760,
+                71924100,
+                143998085,
+                126322002,
+                2777701055,
+                2780851360,
+                2911057145,
+                2781433595
+            ],
+            "time": 0.1564939022064209
+        },
+        "remaining_results": {
+            "tags": [
+                "Durvalumab",
+                "Avelumab",
+                "Atezolizumab",
+                "Nivolumab",
+                "Pembrolizumab",
+                "Medicine",
+                "Oncology",
+                "Internal medicine",
+                "Immunotherapy",
+                "Immune checkpoint",
+                "Ipilimumab"
+            ],
+            "tag_ids": [
+                2777742743,
+                2777381376,
+                2775949291,
+                2780030458,
+                2780057760,
+                71924100,
+                143998085,
+                126322002,
+                2777701055,
+                2780851360,
+                2781433595
+            ]
+        }
+    },
+    "Jose+Caro14": {
+        "title": "A Phase II Study of AMG 510 in Participants With Previously Treated Stage IV or Recurrent KRAS G12C Mutated Non-Squamous Non-Small Cell Lung Cancer (ECOG-ACRIN LUNG-MAP SUB-STUDY)",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase II Lung-MAP treatment trial studies the effect of AMG 510 in treating non-squamous non-small cell lung cancer that is stage IV or has come back (recurrent) and has a specific mutation in the KRAS gene, known as KRAS G12C. Mutations in this gene may cause the cancer to grow. AMG 510, a targeted treatment against the KRAS G12C mutation, may help stop the growth of tumor cells.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "kras",
+                "medicine",
+                "cancer research",
+                "lung cancer",
+                "mutation",
+                "oncology",
+                "lung",
+                "stage",
+                "phases of clinical research",
+                "internal medicine"
+            ],
+            "scores": [
+                0.9430673122406006,
+                0.6838039755821228,
+                0.5991086363792419,
+                0.5683515071868896,
+                0.535566508769989,
+                0.4394703507423401,
+                0.42952772974967957,
+                0.4222470819950104,
+                0.41686341166496277,
+                0.4024242162704468
+            ],
+            "tag_ids": [
+                2781187634,
+                71924100,
+                502942594,
+                2776256026,
+                501734568,
+                143998085,
+                2777714996,
+                146357865,
+                31760486,
+                126322002
+            ],
+            "time": 0.15194392204284668
+        },
+        "remaining_results": {
+            "tags": [
+                "KRAS",
+                "Medicine",
+                "Cancer research",
+                "Lung cancer",
+                "Mutation",
+                "Oncology",
+                "Lung",
+                "Phases of clinical research",
+                "Internal medicine"
+            ],
+            "tag_ids": [
+                2781187634,
+                71924100,
+                502942594,
+                2776256026,
+                501734568,
+                143998085,
+                2777714996,
+                31760486,
+                126322002
+            ]
+        }
+    },
+    "Jose+Caro15": {
+        "title": "CASPAR - A Phase III Trial of Enzalutamide and Rucaparib as a Novel Therapy in First-Line Metastatic Castration-Resistant Prostate Cancer",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This randomized, placebo-controlled phase III trial is evaluating the benefit of rucaparib and enzalutamide combination therapy versus enzalutamide alone for the treatment of men with prostate cancer that has spread to other places in the body (metastatic) and has become resistant to testosterone-deprivation therapy (castration-resistant). Enzalutamide helps fight prostate cancer by blocking the use of testosterone by the tumor cells for growth. Poly adenosine diphosphate (ADP)-ribose polymerase (PARP) inhibitors, such as rucaparib, fight prostate cancer by prevent tumor cells from repairing their DNA. Giving enzalutamide and rucaparib may make patients live longer or prevent their cancer from growing or spreading for a longer time, or both. It may also help doctors learn if a mutation in any of the homologous recombination DNA repair genes is helpful to decide which treatment is best for the patient.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "enzalutamide",
+                "prostate cancer",
+                "medicine",
+                "internal medicine",
+                "oncology",
+                "cancer research",
+                "parp inhibitor",
+                "poly adp ribose polymerase",
+                "placebo"
+            ],
+            "scores": [
+                0.9872174263000488,
+                0.8578418493270874,
+                0.7685126066207886,
+                0.5798431038856506,
+                0.5468676686286926,
+                0.4642641544342041,
+                0.4425070881843567,
+                0.439027339220047,
+                0.4358869791030884
+            ],
+            "tag_ids": [
+                2776551883,
+                2780192828,
+                71924100,
+                126322002,
+                143998085,
+                502942594,
+                2779138821,
+                182979987,
+                27081682
+            ],
+            "time": 0.15862393379211426
+        },
+        "remaining_results": {
+            "tags": [
+                "Enzalutamide",
+                "Prostate cancer",
+                "Medicine",
+                "Internal medicine",
+                "Oncology",
+                "Cancer research",
+                "PARP inhibitor",
+                "Poly ADP ribose polymerase",
+                "Placebo"
+            ],
+            "tag_ids": [
+                2776551883,
+                2780192828,
+                71924100,
+                126322002,
+                143998085,
+                502942594,
+                2779138821,
+                182979987,
+                27081682
+            ]
+        }
+    },
+    "Jose+Caro16": {
+        "title": "A Randomized Phase III Study of Immune Checkpoint Inhibition With Chemotherapy in Treatment-Naive Metastatic Anal Cancer Patients",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase 3 trial compares the addition of nivolumab to chemotherapy (carboplatin and paclitaxel) versus usual treatment (chemotherapy alone) for the treatment of anal cancer that has spread to other places in the body (metastatic). Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving nivolumab together with carboplatin and paclitaxel may help doctors find out if the treatment is better or the same as the usual approach.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "carboplatin",
+                "nivolumab",
+                "chemotherapy",
+                "paclitaxel",
+                "medicine",
+                "oncology",
+                "internal medicine",
+                "immunotherapy",
+                "cancer research"
+            ],
+            "scores": [
+                0.9257535934448242,
+                0.8708330392837524,
+                0.7659134268760681,
+                0.7388176321983337,
+                0.7337796688079834,
+                0.6219587326049805,
+                0.5743324756622314,
+                0.5003409385681152,
+                0.3306509852409363
+            ],
+            "tag_ids": [
+                2781451048,
+                2780030458,
+                2776694085,
+                2777292972,
+                71924100,
+                143998085,
+                126322002,
+                2777701055,
+                502942594
+            ],
+            "time": 0.15279603004455566
+        },
+        "remaining_results": {
+            "tags": [
+                "Carboplatin",
+                "Nivolumab",
+                "Chemotherapy",
+                "Paclitaxel",
+                "Medicine",
+                "Oncology",
+                "Internal medicine",
+                "Immunotherapy",
+                "Cancer research"
+            ],
+            "tag_ids": [
+                2781451048,
+                2780030458,
+                2776694085,
+                2777292972,
+                71924100,
+                143998085,
+                126322002,
+                2777701055,
+                502942594
+            ]
+        }
+    },
+    "Jose+Caro17": {
+        "title": "NCI COVID-19 in Cancer Patients Study (NCCAPS): A Longitudinal Natural History Study",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This study collects blood samples, medical information, and medical images from patients who are being treated for cancer and have a positive test for SARS CoV-2, the new coronavirus that causes the disease called COVID-19. Collecting blood samples, medical information, and medical images may help researchers determine how COVID-19 affects the outcomes of patients undergoing cancer treatment and how having cancer affects COVID-19.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "coronavirus disease 2019",
+                "medicine",
+                "cancer",
+                "natural history",
+                "internal medicine",
+                "severe acute respiratory syndrome coronavirus 2",
+                "2019 20 coronavirus outbreak",
+                "disease",
+                "medical history",
+                "oncology",
+                "blood test"
+            ],
+            "scores": [
+                0.8146157264709473,
+                0.7477589845657349,
+                0.7063238024711609,
+                0.6791959404945374,
+                0.5687384009361267,
+                0.5513225197792053,
+                0.550749659538269,
+                0.5448085069656372,
+                0.4669555127620697,
+                0.44410422444343567,
+                0.4105212986469269
+            ],
+            "tag_ids": [
+                3008058167,
+                71924100,
+                121608353,
+                163276114,
+                126322002,
+                3007834351,
+                3006700255,
+                2779134260,
+                206179267,
+                143998085,
+                2779599708
+            ],
+            "time": 0.17280006408691406
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Cancer",
+                "Natural history",
+                "Internal medicine",
+                "2019-20 coronavirus outbreak",
+                "Disease",
+                "Medical history",
+                "Oncology",
+                "Blood test"
+            ],
+            "tag_ids": [
+                71924100,
+                121608353,
+                163276114,
+                126322002,
+                3006700255,
+                2779134260,
+                206179267,
+                143998085,
+                2779599708
+            ]
+        }
+    },
+    "Jose+Caro18": {
+        "title": "Integration of Immunotherapy Into Adjuvant Therapy for Resected NSCLC: ALCHEMIST Chemo-IO (ACCIO)",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase III ALCHEMIST trial tests the addition of pembrolizumab to usual chemotherapy for the treatment of stage IIA, IIB IIIA or IIIB non-small cell lung cancer that has been removed by surgery. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as cisplatin, pemetrexed, carboplatin, gemcitabine hydrochloride, and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving pembrolizumab with usual chemotherapy may help increase survival times in patients with stage IIA, IIB IIIA or IIIB non-small cell lung cancer.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "pembrolizumab",
+                "carboplatin",
+                "gemcitabine",
+                "medicine",
+                "pemetrexed",
+                "chemotherapy",
+                "lung cancer",
+                "oncology",
+                "immunotherapy",
+                "internal medicine",
+                "cisplatin",
+                "paclitaxel"
+            ],
+            "scores": [
+                0.9071006178855896,
+                0.870041012763977,
+                0.8105286955833435,
+                0.8044806122779846,
+                0.7936571836471558,
+                0.6498529314994812,
+                0.6378369927406311,
+                0.6047461032867432,
+                0.60430908203125,
+                0.594658374786377,
+                0.5025603771209717,
+                0.4361686408519745
+            ],
+            "tag_ids": [
+                2780057760,
+                2781451048,
+                2780258809,
+                71924100,
+                2777240266,
+                2776694085,
+                2776256026,
+                143998085,
+                2777701055,
+                126322002,
+                2778239845,
+                2777292972
+            ],
+            "time": 0.14412307739257812
+        },
+        "remaining_results": {
+            "tags": [
+                "Pembrolizumab",
+                "Carboplatin",
+                "Gemcitabine",
+                "Medicine",
+                "Pemetrexed",
+                "Chemotherapy",
+                "Lung cancer",
+                "Oncology",
+                "Immunotherapy",
+                "Internal medicine",
+                "Cisplatin",
+                "Paclitaxel"
+            ],
+            "tag_ids": [
+                2780057760,
+                2781451048,
+                2780258809,
+                71924100,
+                2777240266,
+                2776694085,
+                2776256026,
+                143998085,
+                2777701055,
+                126322002,
+                2778239845,
+                2777292972
+            ]
+        }
+    },
+    "Jose+Caro19": {
+        "title": "Randomized Phase III Study of Combination Osimertinib (AZD9291) and Bevacizumab Versus Osimertinib (AZD9291) Alone as First-Line Treatment for Patients With Metastatic EGFR-Mutant Non-Small Cell Lung Cancer (NSCLC)",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase III trial compares the effect of bevacizumab and osimertinib combination vs. osimertinib alone for the treatment of non-small cell lung cancer that has spread outside of the lungs (stage IIIB-IV) and has a change (mutation) in a gene called EGFR. The EGFR protein is involved in cell signaling pathways that control cell division and survival. Sometimes, mutations in the EGFR gene cause EGFR proteins to be made in higher than normal amounts on some types of cancer cells. This causes cancer cells to divide more rapidly. Osimertinib may stop the growth of tumor cells by blocking EGFR that is needed for cell growth in this type of cancer. Monoclonal antibodies, such as bevacizumab, may interfere with the ability of tumor cells to grow and spread. Giving osimertinib with bevacizumab may control cancer for longer and help patients live longer as compared to osimertinib alone.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "osimertinib",
+                "bevacizumab",
+                "non small cell lung cancer nsclc",
+                "medicine",
+                "lung cancer",
+                "cancer research",
+                "oncology",
+                "internal medicine"
+            ],
+            "scores": [
+                0.9780080318450928,
+                0.8346822261810303,
+                0.6850532293319702,
+                0.5842481851577759,
+                0.5832812190055847,
+                0.5749572515487671,
+                0.352241188287735,
+                0.34375789761543274
+            ],
+            "tag_ids": [
+                2777626846,
+                2777802072,
+                2779177807,
+                71924100,
+                2776256026,
+                502942594,
+                143998085,
+                126322002
+            ],
+            "time": 0.15152311325073242
+        },
+        "remaining_results": {
+            "tags": [
+                "Osimertinib",
+                "Bevacizumab",
+                "non-small cell lung cancer (NSCLC)",
+                "Medicine",
+                "Lung cancer",
+                "Cancer research",
+                "Oncology",
+                "Internal medicine"
+            ],
+            "tag_ids": [
+                2777626846,
+                2777802072,
+                2779177807,
+                71924100,
+                2776256026,
+                502942594,
+                143998085,
+                126322002
+            ]
+        }
+    },
+    "Jose+Caro20": {
+        "title": "A Randomized Phase III, Two-Arm Trial of Paclitaxel/Carboplatin/Maintenance Letrozole Versus Letrozole Monotherapy in Patients With Stage II-IV, Primary Low-Grade Serous Carcinoma of the Ovary or Peritoneum",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This phase III trial studies how well letrozole with or without paclitaxel and carboplatin works in treating patients with stage II-IV low-grade serous carcinoma of the ovary, fallopian tube, or peritoneum. Letrozole is an enzyme inhibitor that lowers the amount of estrogen made by the body which in turn may stop the growth of tumor cells that need estrogen to grow. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether giving letrozole alone or in combination with paclitaxel and carboplatin works better in treating patients with low-grade serous carcinoma of the ovary, fallopian tube, or peritoneum compared to paclitaxel and carboplatin without letrozole.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "carboplatin",
+                "letrozole",
+                "paclitaxel",
+                "medicine",
+                "peritoneum",
+                "ovary",
+                "serous carcinoma",
+                "serous fluid",
+                "fallopian tube",
+                "internal medicine",
+                "oncology",
+                "anastrozole",
+                "cisplatin",
+                "chemotherapy",
+                "urology"
+            ],
+            "scores": [
+                0.9043348431587219,
+                0.9024699330329895,
+                0.6686869859695435,
+                0.6536375284194946,
+                0.5965921878814697,
+                0.5710673332214355,
+                0.5458155274391174,
+                0.47458434104919434,
+                0.4704676568508148,
+                0.45773816108703613,
+                0.4454970359802246,
+                0.44248145818710327,
+                0.44051721692085266,
+                0.44045233726501465,
+                0.3550233244895935
+            ],
+            "tag_ids": [
+                2781451048,
+                2778812593,
+                2777292972,
+                71924100,
+                2776001837,
+                2778324911,
+                2777632260,
+                150173356,
+                2775883341,
+                126322002,
+                143998085,
+                2776215463,
+                2778239845,
+                2776694085,
+                126894567
+            ],
+            "time": 0.1437089443206787
+        },
+        "remaining_results": {
+            "tags": [
+                "Carboplatin",
+                "Letrozole",
+                "Paclitaxel",
+                "Medicine",
+                "Peritoneum",
+                "Ovary",
+                "Serous carcinoma",
+                "Serous fluid",
+                "Fallopian tube",
+                "Internal medicine",
+                "Oncology",
+                "Anastrozole",
+                "Cisplatin",
+                "Chemotherapy",
+                "Urology"
+            ],
+            "tag_ids": [
+                2781451048,
+                2778812593,
+                2777292972,
+                71924100,
+                2776001837,
+                2778324911,
+                2777632260,
+                150173356,
+                2775883341,
+                126322002,
+                143998085,
+                2776215463,
+                2778239845,
+                2776694085,
+                126894567
+            ]
+        }
+    },
+    "Bonnie+Ramsey1": {
+        "title": "OPTIMIZing Treatment for Early Pseudomonas Aeruginosa Infection in Cystic Fibrosis: The OPTIMIZE Multicenter, Placebo-Controlled, Double-Blind, Randomized Trial",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "The purpose of this trial is to compare the effects of treatment with tobramycin solution for inhalation (TIS) with and without azithromycin in people with cystic fibrosis (CF) age 6 months to 18 years who have early isolation of Pseudomonas aeruginosa (Pa) from a respiratory culture. Specimens of blood and sputum or throat swabs will be taken during the study along with pulmonary function testing. Participants will receive initial treatment with TIS followed additional treatment with TIS if quarterly respiratory cultures are positive for Pa in addition to either azithromycin or placebo for 18 months.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "azithromycin",
+                "cystic fibrosis",
+                "medicine",
+                "pseudomonas aeruginosa",
+                "sputum",
+                "tobramycin",
+                "placebo",
+                "internal medicine",
+                "double blind",
+                "sputum culture",
+                "randomized controlled trial",
+                "respiratory system",
+                "gastroenterology",
+                "surgery"
+            ],
+            "scores": [
+                0.8867416977882385,
+                0.8628342151641846,
+                0.8343434929847717,
+                0.8189315795898438,
+                0.7597109079360962,
+                0.7039467096328735,
+                0.6150115728378296,
+                0.5909172892570496,
+                0.5566855669021606,
+                0.4658794105052948,
+                0.4491878151893616,
+                0.4240269362926483,
+                0.366716206073761,
+                0.3242656886577606
+            ],
+            "tag_ids": [
+                2778907293,
+                2776938444,
+                71924100,
+                2777637488,
+                2776301714,
+                2778974779,
+                27081682,
+                126322002,
+                2991744798,
+                2779912665,
+                168563851,
+                534529494,
+                90924648,
+                141071460
+            ],
+            "time": 0.15675997734069824
+        },
+        "remaining_results": {
+            "tags": [
+                "Azithromycin",
+                "Cystic fibrosis",
+                "Medicine",
+                "Pseudomonas aeruginosa",
+                "Sputum",
+                "Tobramycin",
+                "Placebo",
+                "Internal medicine",
+                "Double blind",
+                "Sputum culture",
+                "Randomized controlled trial",
+                "Respiratory system",
+                "Gastroenterology",
+                "Surgery"
+            ],
+            "tag_ids": [
+                2778907293,
+                2776938444,
+                71924100,
+                2777637488,
+                2776301714,
+                2778974779,
+                27081682,
+                126322002,
+                2991744798,
+                2779912665,
+                168563851,
+                534529494,
+                90924648,
+                141071460
+            ]
+        }
+    },
+    "Bonnie+Ramsey2": {
+        "title": "Effectiveness and Safety of Intermittent Antimicrobial Therapy for the Treatment of New Onset Pseudomonas Aeruginosa Airway Infection in Young Patients With Cystic Fibrosis",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "Cystic fibrosis (CF) is a chronic disease that significantly affects an individual's lung function. Antibiotic medications have been proven effective at reducing Pseudomonas aeruginosa (PA) infection, which is one of the main causes of death in individuals with CF. The purpose of this study is to compare the effectiveness of treatment based on quarterly culture results versus consistent quarterly antibiotic treatment at reducing PA infection in children with CF.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "cystic fibrosis",
+                "pseudomonas aeruginosa",
+                "medicine",
+                "lung infection",
+                "antibiotics",
+                "internal medicine",
+                "antimicrobial",
+                "lung function"
+            ],
+            "scores": [
+                0.9577531814575195,
+                0.8877075910568237,
+                0.866196870803833,
+                0.6329216361045837,
+                0.6055406928062439,
+                0.5736263990402222,
+                0.5432913303375244,
+                0.49846673011779785
+            ],
+            "tag_ids": [
+                2776938444,
+                2777637488,
+                71924100,
+                3020695711,
+                501593827,
+                126322002,
+                4937899,
+                3018587741
+            ],
+            "time": 0.14234399795532227
+        },
+        "remaining_results": {
+            "tags": [
+                "Cystic fibrosis",
+                "Pseudomonas aeruginosa",
+                "Medicine",
+                "Lung infection",
+                "Antibiotics",
+                "Internal medicine",
+                "Antimicrobial",
+                "Lung function"
+            ],
+            "tag_ids": [
+                2776938444,
+                2777637488,
+                71924100,
+                3020695711,
+                501593827,
+                126322002,
+                4937899,
+                3018587741
+            ]
+        }
+    },
+    "Bonnie+Ramsey3": {
+        "title": "Baby Observational and Nutritional Study (BONUS)",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "Cystic fibrosis (CF) is a life-shortening disease that causes breathing and digestive problems, but can now be diagnosed at the time of birth. Lung function is very hard to measure in infants, but growth is not. In this study the investigators aim to define growth in infants with CF in the first year of life with research quality precision and to understand factors that interfere with good growth.\n\nPancreatic enzyme replacement therapy (PERT) will be also be studied in a subgroup of infants. Two different doses of PERT will be evaluated for improving fat and nitrogen absorption in infants with CF.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "cystic fibrosis",
+                "observational study",
+                "pancreatic enzymes",
+                "medicine",
+                "lung function",
+                "pediatrics",
+                "quality of life",
+                "lung disease",
+                "medical nutrition therapy"
+            ],
+            "scores": [
+                0.8303472995758057,
+                0.8023434281349182,
+                0.7041026949882507,
+                0.6944002509117126,
+                0.6721597909927368,
+                0.5430667996406555,
+                0.4945349395275116,
+                0.4820914566516876,
+                0.4197262227535248
+            ],
+            "tag_ids": [
+                2776938444,
+                23131810,
+                3019860435,
+                71924100,
+                3018587741,
+                187212893,
+                2779951463,
+                2983914783,
+                75141282
+            ],
+            "time": 0.1495201587677002
+        },
+        "remaining_results": {
+            "tags": [
+                "Cystic fibrosis",
+                "Observational study",
+                "Pancreatic enzymes",
+                "Medicine",
+                "Lung function",
+                "Pediatrics",
+                "Quality of life (healthcare)",
+                "Lung disease",
+                "Medical nutrition therapy"
+            ],
+            "tag_ids": [
+                2776938444,
+                23131810,
+                3019860435,
+                71924100,
+                3018587741,
+                187212893,
+                2779951463,
+                2983914783,
+                75141282
+            ]
+        }
+    },
+    "Bonnie+Ramsey4": {
+        "title": "A Prospective Study to Evaluate Biological and Clinical Effects of Significantly Corrected CFTR Function in Infants and Young Children (BEGIN Study)",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This is a two-part, multi-center, prospective longitudinal, exploratory study of highly effective cystic fibrosis transmembrane conductance regulator (CFTR) modulators and their impact on children with cystic fibrosis (CF).",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "cystic fibrosis",
+                "medicine",
+                "prospective cohort study",
+                "cystic fibrosis transmembrane conductance regulator",
+                "pediatrics",
+                "longitudinal study",
+                "internal medicine"
+            ],
+            "scores": [
+                0.9073335528373718,
+                0.7636724710464478,
+                0.7456703186035156,
+                0.7241021990776062,
+                0.4898535907268524,
+                0.4162466526031494,
+                0.3798385560512543
+            ],
+            "tag_ids": [
+                2776938444,
+                71924100,
+                188816634,
+                2778428886,
+                187212893,
+                2777895361,
+                126322002
+            ],
+            "time": 0.14651823043823242
+        },
+        "remaining_results": {
+            "tags": [
+                "Cystic fibrosis",
+                "Medicine",
+                "Prospective cohort study",
+                "Cystic fibrosis transmembrane conductance regulator",
+                "Pediatrics",
+                "Longitudinal study",
+                "Internal medicine"
+            ],
+            "tag_ids": [
+                2776938444,
+                71924100,
+                188816634,
+                2778428886,
+                187212893,
+                2777895361,
+                126322002
+            ]
+        }
+    },
+    "Bonnie+Ramsey5": {
+        "title": "Assessment of Induced Sputum as a Tool to Evaluate Anti-Inflammatory Agents in Patients With Cystic Fibrosis",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "Specific Aim: To determine whether neutrophils, active elastase, and cytokines measured in sputum induced using hypertonic saline are useful screening tests for determining if a particular agent with known anti-inflammatory properties is a suitable candidate for more extensive clinical trials in patients with CF. This aim will be addressed using an anti-inflammatory agent, ibuprofen, that has been shown to have clinical benefit in CF. A \"no treatment\" arm will be included as the control group.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "cystic fibrosis",
+                "anti inflammatory",
+                "hypertonic saline",
+                "sputum",
+                "ibuprofen",
+                "internal medicine",
+                "neutrophil elastase",
+                "gastroenterology",
+                "pharmacology"
+            ],
+            "scores": [
+                0.8769867420196533,
+                0.8267926573753357,
+                0.8165428638458252,
+                0.8115392327308655,
+                0.7722580432891846,
+                0.5927043557167053,
+                0.5495266318321228,
+                0.4568314254283905,
+                0.42033377289772034,
+                0.3435148596763611
+            ],
+            "tag_ids": [
+                71924100,
+                2776938444,
+                2779703632,
+                3017567848,
+                2776301714,
+                2779944601,
+                126322002,
+                2776317360,
+                90924648,
+                98274493
+            ],
+            "time": 0.1610870361328125
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Cystic fibrosis",
+                "Anti-inflammatory",
+                "Hypertonic saline",
+                "Sputum",
+                "Ibuprofen",
+                "Internal medicine",
+                "Neutrophil elastase",
+                "Gastroenterology",
+                "Pharmacology"
+            ],
+            "tag_ids": [
+                71924100,
+                2776938444,
+                2779703632,
+                3017567848,
+                2776301714,
+                2779944601,
+                126322002,
+                2776317360,
+                90924648,
+                98274493
+            ]
+        }
+    },
+    "Henry+Wagner+Jr.1": {
+        "title": "Randomized Phase 3b Study of Three Treatment Regimens in Subjects With Previously Untreated Multiple Myeloma Who Are Not Considered Candidates for High-Dose Chemotherapy and Autologous Stem Cell Transplantation: VELCADE, Thalidomide, and Dexamethasone Versus VELCADE and Dexamethasone Versus VELCADE, Melphalan, and Prednisone",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This is a randomized, open label, multicenter clinical trial to compare the efficacy and safety of Velcade (bortezomib) and dexamethasone versus Velcade, thalidomide, and dexamethasone versus Velcade, melphalan, and prednisone in patients with previously untreated multiple myeloma not considered candidates for high-dose chemotherapy and autologous stem cell transplantation.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "thalidomide",
+                "multiple myeloma",
+                "melphalan",
+                "dexamethasone",
+                "bortezomib",
+                "oncology",
+                "autologous stem cell transplantation",
+                "chemotherapy",
+                "internal medicine",
+                "prednisone",
+                "transplantation",
+                "surgery",
+                "pharmacology"
+            ],
+            "scores": [
+                0.8806459307670593,
+                0.8449582457542419,
+                0.7720864415168762,
+                0.7555628418922424,
+                0.7177298069000244,
+                0.6586439609527588,
+                0.5860357284545898,
+                0.571469783782959,
+                0.541164219379425,
+                0.5389626026153564,
+                0.5259923338890076,
+                0.46576499938964844,
+                0.34425976872444153,
+                0.3431815505027771
+            ],
+            "tag_ids": [
+                71924100,
+                2779609412,
+                2776364478,
+                2778684742,
+                2780401358,
+                2777478702,
+                143998085,
+                2779050716,
+                2776694085,
+                126322002,
+                2778720950,
+                2911091166,
+                141071460,
+                98274493
+            ],
+            "time": 0.19724798202514648
+        },
+        "remaining_results": {
+            "tags": [
+                "medicine",
+                "thalidomide",
+                "multiple myeloma",
+                "melphalan",
+                "dexamethasone",
+                "bortezomib",
+                "oncology",
+                "autologous stem cell transplantation",
+                "chemotherapy",
+                "internal medicine",
+                "prednisone",
+                "transplantation",
+                "surgery",
+                "pharmacology"
+            ],
+            "tag_ids": [
+                71924100,
+                2779609412,
+                2776364478,
+                2778684742,
+                2780401358,
+                2777478702,
+                143998085,
+                2779050716,
+                2776694085,
+                126322002,
+                2778720950,
+                2911091166,
+                141071460,
+                98274493
+            ]
+        }
+    },
+    "Darryl+Zeldin1": {
+        "title": "Cytochrome P450 Epoxygenase Pathway Regulation of Macrophage Function",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "Background:\n\nRespiratory diseases affect more than 1 billion people worldwide. They are a growing public health concern. The lungs are constantly exposed to environmental factors such as dust, fumes, microbes, and pollutants. But much is still not known about how these pollutants lead to respiratory illnesses. Researchers want to collect samples from lungs and blood to see how genetics and environmental pollutants affect cellular responses or functioning.\n\nObjectives:\n\nTo study how cytochrome P450 epoxygenase pathway enzymes affect macrophage function in the lungs and inflammatory responses.\n\nEligibility:\n\nAdults ages 18 65 who can have a bronchoscopy.\n\nDesign:\n\nAll study visits will take place at the NIEHS Clinical Research Unit in Research Triangle Park, NC.\n\nAt study visit 1, participants will be screened with medical history and physical exam. They will have blood and urine tests. They will take tests that measure their lung function. They will answer questionnaires. Before the visit, they will be given a list of medicines they cannot take. They also must not have caffeine on the day of their visit. The visit will last about 3 hours.\n\nAt study visit 2, participants will give blood samples. They will undergo bronchoscopy. For this, they will get an intravenous line in a vein to get sedatives. Their airways will be numbed. Cells will be collected from their lungs. They will fast for 8 hours before the visit. They must have someone else drive them home from the visit. The visit will last about 3-4 hours.\n\nParticipants will get a follow-up phone call about 1 day after study visit 2.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "affect",
+                "epoxygenase",
+                "macrophage",
+                "pulmonary function testing",
+                "physiology",
+                "bronchoalveolar lavage"
+            ],
+            "scores": [
+                0.595575749874115,
+                0.5808497071266174,
+                0.5087950825691223,
+                0.4494006931781769,
+                0.4366823136806488,
+                0.43042507767677307,
+                0.41162538528442383
+            ],
+            "tag_ids": [
+                71924100,
+                2776035688,
+                2779396086,
+                2779244956,
+                75603125,
+                42407357,
+                2777961210
+            ],
+            "time": 0.1578202247619629
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Pulmonary function testing",
+                "Physiology",
+                "Bronchoalveolar lavage"
+            ],
+            "tag_ids": [
+                71924100,
+                75603125,
+                42407357,
+                2777961210
+            ]
+        }
+    },
+    "Darryl+Zeldin2": {
+        "title": "The Role of Functionally Relevant Cyclooxygenase-2 (COX-2) Gene Single Nucleotide Polymorphisms - 765G>C and 8473T>C in Lymphocyte Differentiation",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "Background:\n\n- The immune system contains several different types of cells in the blood and other parts of the body. The body can fight infections well with the right balance of these cell types. The wrong balance of cell types may cause diseases, such as allergies or asthma. The COX-2 gene may help decide the balance of cell types that the body makes as part of the immune system. It may also play a role in certain immune system diseases. Researchers want to see how COX-2 affects the cells in the immune system.\n\nObjectives:\n\n- To study how the COX-2 gene works in the body s immune system.\n\nEligibility:\n\n- Individuals 18 years of age and above who are part of the Environmental Polymorphisms Registry.\n\nDesign:\n\nParticipants will have one study visit at the National Institutes of Health. They will collect a urine sample at home on the morning of the study visit.\nParticipants will have a physical exam and medical history. They will provide a blood sample. They will also give researchers the urine sample they collected that morning.\nNo treatment will be provided as part of this study.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "immune system",
+                "cyclooxygenase",
+                "single nucleotide polymorphism",
+                "allergy",
+                "gene",
+                "immunology",
+                "urine",
+                "biology",
+                "balance",
+                "medicine"
+            ],
+            "scores": [
+                0.740688681602478,
+                0.548218846321106,
+                0.5230342149734497,
+                0.4823424518108368,
+                0.46117082238197327,
+                0.45744818449020386,
+                0.4510355591773987,
+                0.4269929826259613,
+                0.4239973723888397,
+                0.3866053521633148
+            ],
+            "tag_ids": [
+                8891405,
+                2779689624,
+                153209595,
+                207480886,
+                104317684,
+                203014093,
+                2780026642,
+                86803240,
+                168031717,
+                71924100
+            ],
+            "time": 0.15157508850097656
+        },
+        "remaining_results": {
+            "tags": [
+                "Immune system",
+                "Cyclooxygenase",
+                "Single-nucleotide polymorphism",
+                "Allergy",
+                "Gene",
+                "Immunology",
+                "Urine",
+                "Biology",
+                "Balance (ability)",
+                "Medicine"
+            ],
+            "tag_ids": [
+                8891405,
+                2779689624,
+                153209595,
+                207480886,
+                104317684,
+                203014093,
+                2780026642,
+                86803240,
+                168031717,
+                71924100
+            ]
+        }
+    },
+    "Darryl+Zeldin3": {
+        "title": "The Role of the Functionally Relevant Single Nucleotide Polymorphisms CYP2J2 -50G>T (CYP2J2 7) and EPHX2 9846A>G (EPHX2 K55R) in Human Endothelial Function",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "Background:\n\n- The endothelium is the inner lining of blood vessels. The cells in this lining help regulate blood flow and immune system function. Problems with endothelial cells can contribute to heart disease, high blood pressure, and diabetes. Certain genes or parts of genes may be related to problems with endothelial function. Researchers want to study healthy adults who have genes that may affect their endothelial function. More information on these genes may provide more information on genetic risk for certain diseases.\n\nObjectives:\n\n- To study healthy adults who have genetic markers related to endothelial cell problems.\n\nEligibility:\n\nHealthy volunteers between 18 and 65 years of age.\nCurrent participants of the Environmental Polymorphisms Registry and have certain genes related to endothelial cell problems.\n\nDesign:\n\nParticipants will have a single study visit to collect information and samples.\nParticipants will be screened with a physical exam and medical history. Blood and urine samples will be collected.\nParticipants will have an ultrasound of the artery in the arm and will be given a short-acting medication called nitroglycerin to study blood flow and blood pressure....",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "blood pressure",
+                "single nucleotide polymorphism",
+                "brachial artery",
+                "endothelium",
+                "endothelial dysfunction",
+                "gene",
+                "diabetes mellitus",
+                "medicine",
+                "immune system",
+                "endothelial stem cell",
+                "blood flow",
+                "function",
+                "bioinformatics",
+                "physiology",
+                "immunology",
+                "internal medicine",
+                "biology"
+            ],
+            "scores": [
+                0.6484954953193665,
+                0.6198562383651733,
+                0.6196268200874329,
+                0.6121050119400024,
+                0.5876975059509277,
+                0.5558416843414307,
+                0.5207234025001526,
+                0.5041986703872681,
+                0.4947509467601776,
+                0.4863070249557495,
+                0.4540785253047943,
+                0.43877580761909485,
+                0.39797243475914,
+                0.39765602350234985,
+                0.3887782394886017,
+                0.35758787393569946,
+                0.35658079385757446
+            ],
+            "tag_ids": [
+                84393581,
+                153209595,
+                2777604165,
+                2776992346,
+                2780972559,
+                104317684,
+                555293320,
+                71924100,
+                8891405,
+                123012128,
+                158846371,
+                14036430,
+                60644358,
+                42407357,
+                203014093,
+                126322002,
+                86803240
+            ],
+            "time": 0.1480576992034912
+        },
+        "remaining_results": {
+            "tags": [
+                "Blood pressure",
+                "Single-nucleotide polymorphism",
+                "Brachial artery",
+                "Endothelium",
+                "Endothelial dysfunction",
+                "Gene",
+                "Diabetes mellitus",
+                "Medicine",
+                "Immune system",
+                "Endothelial stem cell",
+                "Blood flow",
+                "Function (biology)",
+                "Bioinformatics",
+                "Physiology",
+                "Immunology",
+                "Internal medicine",
+                "Biology"
+            ],
+            "tag_ids": [
+                84393581,
+                153209595,
+                2777604165,
+                2776992346,
+                2780972559,
+                104317684,
+                555293320,
+                71924100,
+                8891405,
+                123012128,
+                158846371,
+                14036430,
+                60644358,
+                42407357,
+                203014093,
+                126322002,
+                86803240
+            ]
+        }
+    },
+    "Darryl+Zeldin4": {
+        "title": "Childhood Asthma Reduction Study",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "Background:\n\n- Cockroach allergies are an important risk factor for asthma in inner-city households, especially in children. A new method for killing cockroaches may help children who live in households that have high numbers of cockroaches. Because most public health treatments target more than just cockroaches, this method could lower the costs of treating childhood allergies and asthma by focusing on the most likely source of the allergy.\n\nObjectives:\n\n- To test a new cockroach-killing method designed to reduce asthma in children exposed to cockroaches.\n\nEligibility:\n\nChildren 5 to 14 years of age who have moderate to severe asthma.\nChildren must live in a household that has a high number of cockroaches.\n\nDesign:\n\nParticipants will be screened with a phone call and an initial home visit.\nStudy doctors will place cockroach traps, and return after 3 days to check the number of roaches caught and killed. Dust samples will be collected from the house.\nParticipants will have blood and lung function tests, and will be tested for allergies (including cockroach allergies).\nSome households will be treated for cockroaches at regular intervals, or more frequently if required by the study doctors.\nParticipants will have regular checkup visits in their homes at months 1, 3, 6, 9, and 12 and short phone call interviews at months 2, 4, 6, 8 and 10 to study their asthma symptoms. The home visits will also check the cockroach levels in the house.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "cockroach",
+                "asthma",
+                "medicine",
+                "allergy",
+                "pediatrics",
+                "environmental health",
+                "family medicine"
+            ],
+            "scores": [
+                0.9509575963020325,
+                0.8267695903778076,
+                0.7623509764671326,
+                0.6789652705192566,
+                0.5188156962394714,
+                0.4183763861656189,
+                0.37434297800064087
+            ],
+            "tag_ids": [
+                2777346155,
+                2776042228,
+                71924100,
+                207480886,
+                187212893,
+                99454951,
+                512399662
+            ],
+            "time": 0.14519095420837402
+        },
+        "remaining_results": {
+            "tags": [
+                "Cockroach",
+                "Asthma",
+                "Medicine",
+                "Allergy",
+                "Pediatrics",
+                "Environmental health",
+                "Family medicine"
+            ],
+            "tag_ids": [
+                2777346155,
+                2776042228,
+                71924100,
+                207480886,
+                187212893,
+                99454951,
+                512399662
+            ]
+        }
+    },
+    "Darryl+Zeldin5": {
+        "title": "Cockroach Allergen Reduction by Extermination Alone in Low-Income, Urban Homes-A Randomized Control Trial",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "The most important risk factor for asthma in inner-city homes may be exposure to cockroach allergen. In a previous study, the researchers reported that extermination alone, without resident education or professional cleaning, reduced allergen levels in inner-city homes. This result contradicted earlier findings by other scientists. This study seeks to confirm the researchers' earlier results, and to determine how intensive an effective extermination must be.\n\nThe study will last one year and include 60 infested, multi-unit rental homes in North Carolina, divided into three groups. In the Treatment-1 group, researchers from North Carolina State University will set insecticide bait in initial and follow-up visits, as the highest standard for treatment. In the Treatment-2 group, one of five commercial pest-control companies will be randomly assigned to treat each home according to a 12-month, pre-paid contract. The third group will be a control group that receives no extermination treatment. In all homes, researchers will periodically survey the residents, monitor cockroach numbers, and monitor allergen levels in dust samples. If this study is successful, it will be used to plan future asthma prevention trials.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "cockroach",
+                "medicine",
+                "asthma",
+                "environmental health",
+                "randomized controlled trial",
+                "low income"
+            ],
+            "scores": [
+                0.6655733585357666,
+                0.5978615283966064,
+                0.593508243560791,
+                0.5543338060379028,
+                0.47017329931259155,
+                0.4435431957244873
+            ],
+            "tag_ids": [
+                2777346155,
+                71924100,
+                2776042228,
+                99454951,
+                168563851,
+                3018804484
+            ],
+            "time": 0.14514899253845215
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Asthma",
+                "Environmental health",
+                "Randomized controlled trial"
+            ],
+            "tag_ids": [
+                71924100,
+                2776042228,
+                99454951,
+                168563851
+            ]
+        }
+    },
+    "Darryl+Zeldin6": {
+        "title": "Dust Mite Allergen Reduction Study",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "This study will determine whether use of an in-home test kit results in decreased dust mite allergen levels in homes of children who are sensitive or allergic to dust mites. Dust mite allergens come from dust mites - microscopic spider-like animals that feed on house dust. Dust mites are common anywhere there is dust, such as in carpeting and beds. Some people are allergic to dust mite allergens and may develop asthma from living near them.\n\nPeople who live in the Research Triangle Park area of North Carolina who have a child between 5 and 15 years old with a dust mite allergy or sensitivity may be eligible for this study. Participants must plan to remain in the same house for at least 12 months from the start of the study. At least half the floor of the child's room must be carpeted.\n\nParticipants are given materials on how to reduce dust mite allergens in their home. Study staff visit participants' homes three times over a 12-month period to ask questions about the home, home cleaning habits, and participants' experiences with home test kits (see below) for measuring dust mite allergen. At each visit, staff collect dust samples from the child's bedroom, the parents' bedroom, and the living room. The dust samples are analyzed in the laboratory for dust mite allergens and the results are given to the participants at the end of the study.\n\nParticipants are also given four home test kits for measuring dust mite allergen in the home. At the first home visit, staff instruct the participants on how to use the kits and answer any questions they may have. The kits are mailed at certain times during the study for the participants to use to measure allergen and send the results to the study investigators in a pre-paid addressed envelope.\n\nA control group is given educational materials but no test kits.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "bedroom",
+                "mite",
+                "dust mites",
+                "allergen",
+                "environmental health",
+                "living room",
+                "house dust mite",
+                "allergy",
+                "aeroallergen",
+                "toxicology",
+                "medicine",
+                "geography"
+            ],
+            "scores": [
+                0.9452300071716309,
+                0.8049077987670898,
+                0.6709620952606201,
+                0.6685255169868469,
+                0.5739813446998596,
+                0.5715916752815247,
+                0.5192661285400391,
+                0.4850460886955261,
+                0.46765607595443726,
+                0.4519370496273041,
+                0.38040465116500854,
+                0.33950570225715637
+            ],
+            "tag_ids": [
+                2778289769,
+                2779711295,
+                2909583644,
+                2780510475,
+                99454951,
+                2985974629,
+                2778166374,
+                207480886,
+                2778391694,
+                33070731,
+                71924100,
+                205649164
+            ],
+            "time": 0.11531901359558105
+        },
+        "remaining_results": {
+            "tags": [
+                "Bedroom",
+                "Mite",
+                "Dust mites",
+                "Allergen",
+                "Environmental health",
+                "House dust mite",
+                "Allergy",
+                "Aeroallergen",
+                "Toxicology",
+                "Medicine",
+                "Geography"
+            ],
+            "tag_ids": [
+                2778289769,
+                2779711295,
+                2909583644,
+                2780510475,
+                99454951,
+                2778166374,
+                207480886,
+                2778391694,
+                33070731,
+                71924100,
+                205649164
+            ]
+        }
+    },
+    "Darryl+Zeldin7": {
+        "title": "National Survey of Lead Hazards and Allergens in Housing",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "We propose to conduct a scientifically valid, descriptive survey to measure the prevalence and levels of lead in dust, soil, and paint, and the prevalence and levels of various indoor allergens in floor and bedding dust in the nation's housing stock. The survey strategy is a population-based, multi-stage area probability sample designed to represent all 50 states. The survey will include approximately 1000 homes in at least 100 primary sampling units (PSU, a metropolitan area or cluster of counties). Residents of candidate participant housing units (HUs) will initially be contacted by a letter to introduce and provide a brief explanation of the study. A field interviewer will then visit each candidate HU to screen and recruit eligible units into the study. A short Screening Questionnaire will be administered to an adult HU resident and an invitation will be extended to those HUs that are eligible to participate in the study. A field data collection visit will be scheduled for the following week, at the resident's convenience. The collection visit will be conducted by two member team (including the same field interviewer that will conduct the screening/recruiting visit) and will consist of administration of an informed consent form and Data Collection Questionnaire, completion of home observation forms, collection of interior dust and exterior soil samples, and conduct of nondestructive paint lead analysis on both interior and exterior walls. Soil and dust samples will be shipped to analytical laboratories for lead and allergen analysis. Extensive survey design, procedure, and reporting details are provided in the National Survey Lead Hazards and Allergens in Housing: Protocol and Sample Design Report (Attachment A). It is anticipated that this study will provide allergen-specific data regarding: 1) housing conditions, demographic factors, and climate to facilitate evaluation of regional, ethnic, socioeconomic, and housing characteristic differences in the indoor allergen burden; 2) an estimate of indoor allergen exposure in the U.S. population; 3) baseline data that can be used to stimulate future studies which attempt to correlate allergen exposure to disease outcome. The study will yield lead hazard data to: 1) estimate the number and percent of homes with dust and soil lead levels above selected thresholds; 2) identify sources of lead in dust in housing; 3) permit future analysis of lead hazard control strategies an costs, including associated policy and regulatory guidelines.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "interview",
+                "environmental health",
+                "cluster sampling",
+                "metropolitan area",
+                "data collection",
+                "population",
+                "geography",
+                "medicine"
+            ],
+            "scores": [
+                0.6635069251060486,
+                0.5944381356239319,
+                0.5191463828086853,
+                0.5171665549278259,
+                0.5023531913757324,
+                0.4185940623283386,
+                0.4024898111820221,
+                0.38473695516586304
+            ],
+            "tag_ids": [
+                24845683,
+                99454951,
+                183380357,
+                158739034,
+                133462117,
+                2908647359,
+                205649164,
+                71924100
+            ],
+            "time": 0.2241830825805664
+        },
+        "remaining_results": {
+            "tags": [
+                "Interview",
+                "Environmental health",
+                "Cluster sampling",
+                "Metropolitan area",
+                "Data collection",
+                "Population",
+                "Geography",
+                "Medicine"
+            ],
+            "tag_ids": [
+                24845683,
+                99454951,
+                183380357,
+                158739034,
+                133462117,
+                2908647359,
+                205649164,
+                71924100
+            ]
+        }
+    },
+    "Katherine+Nathanson1": {
+        "title": "Randomized Trial of Universal vs. Guideline-directed Germline Testing Among Young Adults With Cancer",
+        "doc_type": null,
+        "journal": null,
+        "abstract": "The overarching goal of our research is to define an evidence-based, sustainable approach to identifying and managing genetic risk among young adults with cancer and their relatives. Conventional practice leaves referral and testing decisions to mostly non-expert clinicians implementing complex guidelines at the point of care, leading to substantial under-utilization. The investigators hypothesize that panel-based universal screening coupled with electronic medical record- (EMR-) based algorithms can improve ascertainment of genetic risk by functioning as an automated, radically simplified default practice in place of repeated single decisions requiring clinician cognitive effort and action.\n\nA secondary goal is to explore differences in ascertainment of genetic risk among first-degree relatives of probands.",
+        "inverted_abstract": false,
+        "results": {
+            "tags": [
+                "medicine",
+                "guideline",
+                "young adult",
+                "referral",
+                "genetic testing",
+                "randomized controlled trial",
+                "family medicine",
+                "proband",
+                "cancer"
+            ],
+            "scores": [
+                0.7070964574813843,
+                0.7034054398536682,
+                0.6323391795158386,
+                0.6253476738929749,
+                0.6134516596794128,
+                0.5845586061477661,
+                0.48253294825553894,
+                0.4776943027973175,
+                0.4707171320915222
+            ],
+            "tag_ids": [
+                71924100,
+                2780182762,
+                205545832,
+                2776135927,
+                2780673598,
+                168563851,
+                512399662,
+                188997412,
+                121608353
+            ],
+            "time": 0.13532614707946777
+        },
+        "remaining_results": {
+            "tags": [
+                "Medicine",
+                "Guideline",
+                "Young adult",
+                "Referral",
+                "Genetic testing",
+                "Randomized controlled trial",
+                "Family medicine",
+                "Proband",
+                "Cancer"
+            ],
+            "tag_ids": [
+                71924100,
+                2780182762,
+                205545832,
+                2776135927,
+                2780673598,
+                168563851,
+                512399662,
+                188997412,
+                121608353
+            ]
+        }
+    }
+}
