@@ -1,929 +1,1559 @@
 {
-    "Derek Abbott": {
-        "fl:de_ln:abbott-3": {
-            "6605808": {
-                "id": "6605808",
-                "earliest_date": "2001-12-10",
-                "abstract": "A diagnostic apparatus including a terahertz generator taking the form of a femtosecond laser exciting either an optoelectric crystal of a photoconductive dipole antenna the terahertz radiation is directed onto a target preferably held close by or abutting an enclosure including a reflection receiving window and housing terahertz detector for detecting terahertz radiation. Preferably the terahertz radiation generator forms part of the receiving window. The enclosure has a modified atmosphere to permit ready transmission of terahertz radiation. A beam splitter is positioned between the laser and the terahertz generator to split off a probe laser beam from the terahertz inducing laser radiation which is also directed to the detector means. The output from the detector being determined by the amplitude of that part of the reflected teraherz radiation wave coaligned with the probe laser at the detector. A delay is positioned in the probe laser path to altering the length of the probe laser path over terahertz subwavelength distances so that different parts of the terahertz wave form can be interrogated by the probe laser to thereby ascertain the shape and dimensions of the reflected terahertz radiation.",
-                "patent_date": "2003-08-12",
-                "patent_num_total_documents_cited": 8,
-                "patent_num_cited_by_us_patents": 22,
-                "patent_title": "Diagnostic apparatus using terahertz radiation",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "10/016489",
-                        "application_type": "10",
-                        "filing_type": "10",
-                        "filing_date": "2001-12-10"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:de_ln:abbott-3",
-                        "name_first": "Derek",
-                        "name_last": "Abbott",
-                        "position": 1
-                    },
-                    {
-                        "id": "fl:sa_ln:mickan-1",
-                        "name_first": "Samuel",
-                        "name_last": "Mickan",
-                        "position": 0
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "a7002a21-16c8-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "Luminis Pty. Ltd."
-                    }
-                ],
-                "year": 2003,
-                "related_documents": [
-                    {
-                        "id": "20020074500",
-                        "type": "related-publication"
-                    }
-                ],
-                "us_term_of_grant": [
-                    {
-                        "disclaimer_date": null
-                    }
-                ]
+    "5500522": {
+        "id": "5500522",
+        "earliest_date": "1994-05-27",
+        "abstract": "A pixel comprises a Field Effect Transistor formed on a gallium arsenide substrate wherein a source (1) of the field effect transistor is a photoresponsive element, a gate of the field effect transistor is shielded from light and acts as a switch to enable/disable readout and a drain (4) of the field effect transistor is connected to a readout line. Also disclosed an X-Y imager formed on a gallium arsenide substrate from a plurality of pixels and a processing area wherein each pixel comprises a photoresponsive source (1), a gate formed from a plurality of metal fingers (7) across the source (1), a drain (4) connected to a readout line and a gate resistor (12) connected in series with the fingers (7). The arrangement of fingers (7) across the source (1) in co-operation with the gate resistor (12) produces an enhanced optical gain.",
+        "created_date": "1996-03-19",
+        "cited_count": 7,
+        "cited_by_count": 8,
+        "title": "Gallium arsenide MESFET imager",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "08/211373",
+                "application_type": "08",
+                "filing_type": "08",
+                "filing_date": "1994-05-27"
             }
-        }
+        ],
+        "inventors": [
+            {
+                "id": "fl:de_ln:abbott-3",
+                "name_first": "Derek",
+                "name_last": "Abbott",
+                "position": 1
+            },
+            {
+                "id": "fl:ka_ln:eshraghian-1",
+                "name_first": "Kamran",
+                "name_last": "Eshraghian",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "a7002a21-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Luminis Pty. Ltd."
+            }
+        ],
+        "year": 1996,
+        "related_documents": [],
+        "us_term_of_grant": [],
+        "api": "patentsView"
     },
-    "Evan Abel": {
-        "fl:ev_ln:abel-1": {
-            "D694628": {
-                "id": "D694628",
-                "earliest_date": "2012-08-23",
-                "abstract": null,
-                "patent_date": "2013-12-03",
-                "patent_num_total_documents_cited": 25,
-                "patent_num_cited_by_us_patents": 3,
-                "patent_title": "Container configuration",
-                "patent_type": "design",
-                "application": [
-                    {
-                        "application_id": "29/430266",
-                        "application_type": "29",
-                        "filing_type": "29",
-                        "filing_date": "2012-08-23"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:ma_ln:kida-3",
-                        "name_first": "Makiko",
-                        "name_last": "Kida",
-                        "position": 1
-                    },
-                    {
-                        "id": "fl:ta_ln:matsumoto-15",
-                        "name_first": "Tamotsu",
-                        "name_last": "Matsumoto",
-                        "position": 0
-                    },
-                    {
-                        "id": "fl:ta_ln:watanabe-105",
-                        "name_first": "Takuma",
-                        "name_last": "Watanabe",
-                        "position": 2
-                    },
-                    {
-                        "id": "fl:ev_ln:abel-1",
-                        "name_first": "Evan",
-                        "name_last": "Abel",
-                        "position": 3
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "Helen of Troy Limited"
-                    }
-                ],
-                "year": 2013,
-                "related_documents": [],
-                "us_term_of_grant": [
-                    {
-                        "disclaimer_date": null
-                    }
-                ]
+    "6542016": {
+        "id": "6542016",
+        "earliest_date": "2001-12-10",
+        "abstract": "A binary digital logic level sensitive latch comprising a first inverter that provides an output (O1). At least one input signal (I1) and an activation signal (Clk) are provided to the first inventer both being capacitively coupled to an input of the first inverter and a switching threshold of the first inverter. The capacitance of the couplings being predetermined such that the output of the first inverter (O1) is a NOR function of the inputs signals and the activation signal O1={overscore (I1+Clk)}. A second inverter has as inputs capacitively coupled the output of the first inverter (O1), the activation signal (Clk) and an inverted pervious output signal (P) to provide output (O2). A switching threshold of the second inverter and the capacitance of the couplings being predetermined such that the output of the second inverter (O2) takes the function of: O2={overscore ((Clk&times;P)+O1)}.",
+        "created_date": "2003-04-01",
+        "cited_count": 3,
+        "cited_by_count": 0,
+        "title": "Level sensitive latch",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "10/016153",
+                "application_type": "10",
+                "filing_type": "10",
+                "filing_date": "2001-12-10"
             }
-        }
+        ],
+        "inventors": [
+            {
+                "id": "fl:sa_ln:alsarawi-2",
+                "name_first": "Said",
+                "name_last": "Al-Sarawi",
+                "position": 2
+            },
+            {
+                "id": "fl:pe_ln:celinski-1",
+                "name_first": "Peter",
+                "name_last": "Celinski",
+                "position": 0
+            },
+            {
+                "id": "fl:de_ln:abbott-3",
+                "name_first": "Derek",
+                "name_last": "Abbott",
+                "position": 1
+            }
+        ],
+        "assignees": [
+            {
+                "id": "4d03c6b6-2f00-11ed-aea8-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Luminis Pty. Ltd."
+            }
+        ],
+        "year": 2003,
+        "related_documents": [
+            {
+                "id": "20020153931",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [],
+        "api": "patentsView"
     },
-    "Amy Abernethy": {
-        "fl:am_ln:abernethy-1": {
-            "10783448": {
-                "id": "10783448",
-                "earliest_date": "2016-07-15",
-                "abstract": "Methods, systems, and apparatus, including computer programs encoded on computer storage media, to present a video. One of the methods includes obtaining one or more unstructured documents. The method includes obtaining, by a computer system, a data model, the data model identifying a type of fact that can be determined from the one or more unstructured documents. The method includes determining, by the computer system, a channel to extract facts from the document based on the type of fact. The method includes distributing, by the computer system, the one or more unstructured documents to the channel. The method includes extracting, by the channel, facts from the one or more unstructured documents. The method also includes storing the facts in a data model.",
-                "patent_date": "2020-09-22",
-                "patent_num_total_documents_cited": 10,
-                "patent_num_cited_by_us_patents": 0,
-                "patent_title": "Extracting facts from unstructured data",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "15/211250",
-                        "application_type": "15",
-                        "filing_type": "15",
-                        "filing_date": "2016-07-15"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:la_ln:ellsworth-1",
-                        "name_first": "Lauren",
-                        "name_last": "Ellsworth",
-                        "position": 9
-                    },
-                    {
-                        "id": "fl:na_ln:nussbaum-1",
-                        "name_first": "Nathan",
-                        "name_last": "Nussbaum",
-                        "position": 18
-                    },
-                    {
-                        "id": "fl:je_ln:feinstein-1",
-                        "name_first": "Jeremy",
-                        "name_last": "Feinstein",
-                        "position": 11
-                    },
-                    {
-                        "id": "fl:ro_ln:feinstein-1",
-                        "name_first": "Ross",
-                        "name_last": "Feinstein",
-                        "position": 10
-                    },
-                    {
-                        "id": "fl:za_ln:weinberg-2",
-                        "name_first": "Zachary",
-                        "name_last": "Weinberg",
-                        "position": 24
-                    },
-                    {
-                        "id": "fl:me_ln:tucker-5",
-                        "name_first": "Melisa",
-                        "name_last": "Tucker",
-                        "position": 22
-                    },
-                    {
-                        "id": "fl:pa_ln:richardson-8",
-                        "name_first": "Paul",
-                        "name_last": "Richardson",
-                        "position": 20
-                    },
-                    {
-                        "id": "fl:ca_ln:keenan-1",
-                        "name_first": "Caitlin",
-                        "name_last": "Keenan",
-                        "position": 12
-                    },
-                    {
-                        "id": "fl:jo_ln:dilallo-2",
-                        "name_first": "Joseph",
-                        "name_last": "DiLallo",
-                        "position": 6
-                    },
-                    {
-                        "id": "fl:ca_ln:miller-39",
-                        "name_first": "Catherine",
-                        "name_last": "Miller",
-                        "position": 16
-                    },
-                    {
-                        "id": "fl:je_ln:kohansimeh-1",
-                        "name_first": "Jeremy",
-                        "name_last": "Kohansimeh",
-                        "position": 13
-                    },
-                    {
-                        "id": "fl:de_ln:lee-78",
-                        "name_first": "Dennis J.",
-                        "name_last": "Lee",
-                        "position": 14
-                    },
-                    {
-                        "id": "fl:pa_ln:you-1",
-                        "name_first": "Paul",
-                        "name_last": "You",
-                        "position": 25
-                    },
-                    {
-                        "id": "fl:be_ln:birnbaum-2",
-                        "name_first": "Benjamin Edward",
-                        "name_last": "Birnbaum",
-                        "position": 2
-                    },
-                    {
-                        "id": "fl:cy_ln:revol-1",
-                        "name_first": "Cynthia",
-                        "name_last": "Revol",
-                        "position": 19
-                    },
-                    {
-                        "id": "fl:gi_ln:shklarski-1",
-                        "name_first": "Gil",
-                        "name_last": "Shklarski",
-                        "position": 0
-                    },
-                    {
-                        "id": "fl:el_ln:meerson-1",
-                        "name_first": "Elijah",
-                        "name_last": "Meerson",
-                        "position": 15
-                    },
-                    {
-                        "id": "fl:ge_ln:calkins-2",
-                        "name_first": "Geoffrey",
-                        "name_last": "Calkins",
-                        "position": 3
-                    },
-                    {
-                        "id": "fl:am_ln:abernethy-1",
-                        "name_first": "Amy",
-                        "name_last": "Abernethy",
-                        "position": 1
-                    },
-                    {
-                        "id": "fl:jo_ln:delgado-5",
-                        "name_first": "Joseph",
-                        "name_last": "Delgado",
-                        "position": 5
-                    },
-                    {
-                        "id": "fl:ma_ln:roth-2",
-                        "name_first": "Maayan",
-                        "name_last": "Roth",
-                        "position": 21
-                    },
-                    {
-                        "id": "fl:da_ln:eisenberg-1",
-                        "name_first": "Daniel",
-                        "name_last": "Eisenberg",
-                        "position": 8
-                    },
-                    {
-                        "id": "fl:do_ln:connolly-1",
-                        "name_first": "Dominique",
-                        "name_last": "Connolly",
-                        "position": 4
-                    },
-                    {
-                        "id": "fl:jo_ln:mou-1",
-                        "name_first": "Joseph",
-                        "name_last": "Mou",
-                        "position": 17
-                    },
-                    {
-                        "id": "fl:na_ln:turner-1",
-                        "name_first": "Nathaniel",
-                        "name_last": "Turner",
-                        "position": 23
-                    },
-                    {
-                        "id": "fl:ja_ln:dura-1",
-                        "name_first": "James",
-                        "name_last": "Dura",
-                        "position": 7
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "92237ca2-16c8-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "Flatiron Health, Inc."
-                    }
-                ],
-                "year": 2020,
-                "related_documents": [
-                    {
-                        "id": "62202597",
-                        "type": "us-provisional-application"
-                    },
-                    {
-                        "id": "20170039341",
-                        "type": "related-publication"
-                    }
-                ],
-                "us_term_of_grant": [
-                    {
-                        "disclaimer_date": null
-                    }
-                ]
+    "6605808": {
+        "id": "6605808",
+        "earliest_date": "2001-12-10",
+        "abstract": "A diagnostic apparatus including a terahertz generator taking the form of a femtosecond laser exciting either an optoelectric crystal of a photoconductive dipole antenna the terahertz radiation is directed onto a target preferably held close by or abutting an enclosure including a reflection receiving window and housing terahertz detector for detecting terahertz radiation. Preferably the terahertz radiation generator forms part of the receiving window. The enclosure has a modified atmosphere to permit ready transmission of terahertz radiation. A beam splitter is positioned between the laser and the terahertz generator to split off a probe laser beam from the terahertz inducing laser radiation which is also directed to the detector means. The output from the detector being determined by the amplitude of that part of the reflected teraherz radiation wave coaligned with the probe laser at the detector. A delay is positioned in the probe laser path to altering the length of the probe laser path over terahertz subwavelength distances so that different parts of the terahertz wave form can be interrogated by the probe laser to thereby ascertain the shape and dimensions of the reflected terahertz radiation.",
+        "created_date": "2003-08-12",
+        "cited_count": 8,
+        "cited_by_count": 22,
+        "title": "Diagnostic apparatus using terahertz radiation",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "10/016489",
+                "application_type": "10",
+                "filing_type": "10",
+                "filing_date": "2001-12-10"
             }
-        }
+        ],
+        "inventors": [
+            {
+                "id": "fl:de_ln:abbott-3",
+                "name_first": "Derek",
+                "name_last": "Abbott",
+                "position": 1
+            },
+            {
+                "id": "fl:sa_ln:mickan-1",
+                "name_first": "Samuel",
+                "name_last": "Mickan",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "a7002a21-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Luminis Pty. Ltd."
+            }
+        ],
+        "year": 2003,
+        "related_documents": [
+            {
+                "id": "20020074500",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
     },
-    "Edward Abraham": {
-        "fl:ed_ln:abraham-3": {
-            "8420049": {
-                "id": "8420049",
-                "earliest_date": "2012-02-17",
-                "abstract": "Radiolabeled adenosine or radiolabeled adenosine containing molecules for use in positron emission tomography for assessing alterations in adenylate metabolism in a patient are provided.",
-                "patent_date": "2013-04-16",
-                "patent_num_total_documents_cited": 8,
-                "patent_num_cited_by_us_patents": 0,
-                "patent_title": "Labeled adenosine for use in positron emission tomography",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "13/399642",
-                        "application_type": "13",
-                        "filing_type": "13",
-                        "filing_date": "2012-02-17"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:ed_ln:abraham-3",
-                        "name_first": "Edward",
-                        "name_last": "Abraham",
-                        "position": 0
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "3b270591-16c8-11ed-9b5f-1234bde3cd05",
-                        "name_first": "Edward H.",
-                        "name_last": "Abraham",
-                        "organization": null
-                    }
-                ],
-                "year": 2013,
-                "related_documents": [
-                    {
-                        "id": "10995061",
-                        "type": "division"
-                    },
-                    {
-                        "id": "13399642",
-                        "type": "division"
-                    },
-                    {
-                        "id": "PCT/US03/16159",
-                        "type": "continuation"
-                    },
-                    {
-                        "id": "10995061",
-                        "type": "continuation"
-                    },
-                    {
-                        "id": "60382534",
-                        "type": "us-provisional-application"
-                    },
-                    {
-                        "id": "20120207678",
-                        "type": "related-publication"
-                    }
-                ],
-                "us_term_of_grant": []
+    "8424211": {
+        "id": "8424211",
+        "earliest_date": "2010-08-31",
+        "abstract": "A pivoting hand tool is provided including handle structures which control the relative angular position of pivotable arms to allow disassembly and reassembly and to prevent accidental disassembly during use. Handle structures includes an elastic interference portion which provides a first interference between the first arm and second arm at the predetermined angle to prevent angular displacement of the arms from exceeding a first predetermined angle until a disassembly pivoting force is applied to the first arm and the second arm.",
+        "created_date": "2013-04-23",
+        "cited_count": 17,
+        "cited_by_count": 0,
+        "title": "Separable scissors with elastic stoppers",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "12/872607",
+                "application_type": "12",
+                "filing_type": "12",
+                "filing_date": "2010-08-31"
             }
-        }
+        ],
+        "inventors": [
+            {
+                "id": "fl:fr_ln:clementi-3",
+                "name_first": "Frank",
+                "name_last": "Clementi",
+                "position": 3
+            },
+            {
+                "id": "fl:th_ln:hartman-4",
+                "name_first": "Thomas W.",
+                "name_last": "Hartman",
+                "position": 1
+            },
+            {
+                "id": "fl:ev_ln:abel-1",
+                "name_first": "Evan",
+                "name_last": "Abel",
+                "position": 2
+            },
+            {
+                "id": "fl:lu_ln:nene-1",
+                "name_first": "Lucas O.",
+                "name_last": "Nene",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Helen of Troy Limited"
+            }
+        ],
+        "year": 2013,
+        "related_documents": [
+            {
+                "id": "20120047751",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
     },
-    "Charles Abrams": {
-        "fl:ch_ln:abrams-1": {
-            "7360330": {
-                "id": "7360330",
-                "earliest_date": "2005-01-18",
-                "abstract": "A multi-purpose, front-loading display frame includes a front frame member having a pair of opposite first and second lateral side sections, a rear frame member having a pair of opposite first and second lateral side sections, at least one hinge for pivotally joining the first lateral side section of the front member to the first side section of the rear frame member to permit pivotal movement between an open position, in which the second side sections of the front and rear frame members may be pivoted apart from one another, and a closed position, in which the second side sections are disposed closely adjacent to one another. A lock is mounted on one of the second side sections of one of the front and rear frame members, and at least one latch plate is engageable with the lock. The latch plate is mounted on the other of the second side sections of the other of the front and rear frame members for cooperative engagement with the lock. One of the lock and the latch plate is fixed and the other is generally vertically reciprocable so that, when the front frame member and the rear frame members are in the closed position, one of the lock and latch plate is reciprocably moveable relative to the other for movement between a normally locked and a release position, respectively.",
-                "patent_date": "2008-04-22",
-                "patent_num_total_documents_cited": 6,
-                "patent_num_cited_by_us_patents": 1,
-                "patent_title": "Multi-purpose display frame with gravity lock",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "11/037594",
-                        "application_type": "11",
-                        "filing_type": "11",
-                        "filing_date": "2005-01-18"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:ch_ln:abrams-1",
-                        "name_first": "Charles",
-                        "name_last": "Abrams",
-                        "position": 0
-                    }
-                ],
-                "assignees": [],
-                "year": 2008,
-                "related_documents": [
-                    {
-                        "id": "20060156605",
-                        "type": "related-publication"
-                    }
-                ],
-                "us_term_of_grant": [
-                    {
-                        "disclaimer_date": null
-                    }
-                ]
+    "D618969": {
+        "id": "D618969",
+        "earliest_date": "2009-11-12",
+        "abstract": null,
+        "created_date": "2010-07-06",
+        "cited_count": 9,
+        "cited_by_count": 5,
+        "title": "Corn holder storage device",
+        "type": "design",
+        "application": [
+            {
+                "application_id": "29/350164",
+                "application_type": "29",
+                "filing_type": "29",
+                "filing_date": "2009-11-12"
             }
-        },
-        "fl:ch_ln:abrams-2": {
-            "4519765": {
-                "id": "4519765",
-                "earliest_date": "1983-10-27",
-                "abstract": "An improved mold is provided having an abrasion-resistant reinforcing means disposed at the junction between the mold and a rotating means for resisting wear occurring therebetween as a result of the installation of the mold on a rotating wheel. Preferably, the reinforcing means comprises a hardened plastic ring having a smooth surface facing the drive wheel, and the ring is partially embedded into the mold to attach it to said mold.",
-                "patent_date": "1985-05-28",
-                "patent_num_total_documents_cited": 4,
-                "patent_num_cited_by_us_patents": 1,
-                "patent_title": "Mold",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "06/545921",
-                        "application_type": "06",
-                        "filing_type": "06",
-                        "filing_date": "1983-10-27"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:ch_ln:abrams-2",
-                        "name_first": "Charles",
-                        "name_last": "Abrams",
-                        "position": 0
-                    }
-                ],
-                "assignees": [],
-                "year": 1985,
-                "related_documents": [],
-                "us_term_of_grant": []
+        ],
+        "inventors": [
+            {
+                "id": "fl:an_ln:dibitonto-1",
+                "name_first": "Anthony",
+                "name_last": "Di Bitonto",
+                "position": 0
+            },
+            {
+                "id": "fl:hi_ln:matsui-33",
+                "name_first": "Hideaki",
+                "name_last": "Matsui",
+                "position": 1
+            },
+            {
+                "id": "fl:ni_ln:oxley-2",
+                "name_first": "Nicholas",
+                "name_last": "Oxley",
+                "position": 2
+            },
+            {
+                "id": "fl:ev_ln:abel-1",
+                "name_first": "Evan",
+                "name_last": "Abel",
+                "position": 3
             }
-        }
+        ],
+        "assignees": [
+            {
+                "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Helen of Troy Limited"
+            }
+        ],
+        "year": 2010,
+        "related_documents": [],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
     },
-    "Donald Abrams": {
-        "fl:do_ln:abrams-1": {
-            "4180297": {
-                "id": "4180297",
-                "earliest_date": "1977-09-22",
-                "abstract": "A sealing grommet is utilized to form a seal for articles such as electrical wires passing through the outer case of a refrigerator cabinet, the insulation, particularly foam insulation, between the outer case and the inner liner of the cabinet, and the inner liner. The grommet includes a substantially cylindrically shaped hollow body of a relatively rigid material disposed between the inner liner and the outer wall with a core of a relatively soft material supported by the inner surface of the body and secured thereto by glue, for example. Each of the body and the core is split longitudinally to receive the electrical wires with the core having a central longitudinal passage extending therethrough for an interference fit with the electrical wires. An integral mounting flange and a plurality of spaced locking lugs cooperate to mount the body on the inner liner. A separate grommet can be utilized at the outer case with the core having a sufficient length to extend into engagement with the adjacent surface of the separate grommet so that the core has a seal with the outer case through the separate grommet having a seal with the outer case. The body could have a mounting flange, similar to the mounting flange cooperating with the inner liner, for cooperation with the outer case rather than a separate grommet being employed.",
-                "patent_date": "1979-12-25",
-                "patent_num_total_documents_cited": 7,
-                "patent_num_cited_by_us_patents": 43,
-                "patent_title": "Sealing grommet in a refrigerator cabinet",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "05/835946",
-                        "application_type": "05",
-                        "filing_type": "05",
-                        "filing_date": "1977-09-22"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:do_ln:abrams-1",
-                        "name_first": "Donald",
-                        "name_last": "Abrams",
-                        "position": 0
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "e0ed625f-16c7-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "General Electric Company"
-                    }
-                ],
-                "year": 1979,
-                "related_documents": [],
-                "us_term_of_grant": []
+    "D620326": {
+        "id": "D620326",
+        "earliest_date": "2009-12-09",
+        "abstract": null,
+        "created_date": "2010-07-27",
+        "cited_count": 6,
+        "cited_by_count": 3,
+        "title": "Kernel removal device",
+        "type": "design",
+        "application": [
+            {
+                "application_id": "29/351653",
+                "application_type": "29",
+                "filing_type": "29",
+                "filing_date": "2009-12-09"
             }
-        }
+        ],
+        "inventors": [
+            {
+                "id": "fl:an_ln:dibitonto-1",
+                "name_first": "Anthony",
+                "name_last": "Di Bitonto",
+                "position": 1
+            },
+            {
+                "id": "fl:hi_ln:matsui-33",
+                "name_first": "Hideaki",
+                "name_last": "Matsui",
+                "position": 2
+            },
+            {
+                "id": "fl:ni_ln:oxley-2",
+                "name_first": "Nicholas",
+                "name_last": "Oxley",
+                "position": 0
+            },
+            {
+                "id": "fl:da_ln:turk-5",
+                "name_first": "Daniel",
+                "name_last": "Turk",
+                "position": 5
+            },
+            {
+                "id": "fl:st_ln:tesdal-1",
+                "name_first": "Stian",
+                "name_last": "Tesdal",
+                "position": 3
+            },
+            {
+                "id": "fl:ev_ln:abel-1",
+                "name_first": "Evan",
+                "name_last": "Abel",
+                "position": 4
+            }
+        ],
+        "assignees": [
+            {
+                "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Helen of Troy Limited"
+            }
+        ],
+        "year": 2010,
+        "related_documents": [],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
     },
-    "Domenico Accili": {
-        "fl:do_ln:accili-1": {
-            "9457079": {
-                "id": "9457079",
-                "earliest_date": "2011-05-12",
-                "abstract": "Methods are described for producing enteroendocrine cells that make and secrete insulin in a mammal by blocking the expression or biological activity of one or more Foxo proteins or biologically active fragments or variants thereof.",
-                "patent_date": "2016-10-04",
-                "patent_num_total_documents_cited": 10,
-                "patent_num_cited_by_us_patents": 2,
-                "patent_title": "Methods for producing enteroendocrine cells that make and secrete insulin",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "13/697792",
-                        "application_type": "13",
-                        "filing_type": "13",
-                        "filing_date": "2011-05-12"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:do_ln:accili-1",
-                        "name_first": "Domenico",
-                        "name_last": "Accili",
-                        "position": 1
-                    },
-                    {
-                        "id": "fl:ch_ln:talchai-1",
-                        "name_first": "Chutima",
-                        "name_last": "Talchai",
-                        "position": 0
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "92237ca2-16c8-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "The Trustees of Columbia University in the City of New York"
-                    }
-                ],
-                "year": 2016,
-                "related_documents": [
-                    {
-                        "id": "61334171",
-                        "type": "us-provisional-application"
-                    },
-                    {
-                        "id": "20130216554",
-                        "type": "related-publication"
-                    }
-                ],
-                "us_term_of_grant": []
+    "D655582": {
+        "id": "D655582",
+        "earliest_date": "2011-09-28",
+        "abstract": null,
+        "created_date": "2012-03-13",
+        "cited_count": 8,
+        "cited_by_count": 4,
+        "title": "Container",
+        "type": "design",
+        "application": [
+            {
+                "application_id": "29/402878",
+                "application_type": "29",
+                "filing_type": "29",
+                "filing_date": "2011-09-28"
             }
-        }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ma_ln:kida-3",
+                "name_first": "Makiko",
+                "name_last": "Kida",
+                "position": 2
+            },
+            {
+                "id": "fl:ta_ln:matsumoto-15",
+                "name_first": "Tamotsu",
+                "name_last": "Matsumoto",
+                "position": 0
+            },
+            {
+                "id": "fl:mi_ln:wakabayashi-14",
+                "name_first": "Miho",
+                "name_last": "Wakabayashi",
+                "position": 3
+            },
+            {
+                "id": "fl:da_ln:turk-2",
+                "name_first": "David A.",
+                "name_last": "Turk",
+                "position": 5
+            },
+            {
+                "id": "fl:ev_ln:abel-1",
+                "name_first": "Evan",
+                "name_last": "Abel",
+                "position": 4
+            },
+            {
+                "id": "fl:ma_ln:araki-28",
+                "name_first": "Masaru",
+                "name_last": "Araki",
+                "position": 1
+            }
+        ],
+        "assignees": [
+            {
+                "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Helen of Troy Limited"
+            }
+        ],
+        "year": 2012,
+        "related_documents": [],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
     },
-    "Seema Aceves": {
-        "fl:se_ln:aceves-1": {
-            "9782347": {
-                "id": "9782347",
-                "earliest_date": "2014-01-03",
-                "abstract": "Provided herein are methods for preventing or alleviating the symptoms of and inflammation associated with inflammatory diseases and conditions of the gastrointestinal tract, for example, those involving the esophagus. Also provided herein are pharmaceutical compositions useful for the methods of the present invention.",
-                "patent_date": "2017-10-10",
-                "patent_num_total_documents_cited": 118,
-                "patent_num_cited_by_us_patents": 8,
-                "patent_title": "Topical corticosteroids for the treatment of inflammatory diseases of the gastrointestinal tract",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "14/147332",
-                        "application_type": "14",
-                        "filing_type": "14",
-                        "filing_date": "2014-01-03"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:ra_ln:dohil-1",
-                        "name_first": "Ranjan",
-                        "name_last": "Dohil",
-                        "position": 0
-                    },
-                    {
-                        "id": "fl:el_ln:phillips-5",
-                        "name_first": "Elaine",
-                        "name_last": "Phillips",
-                        "position": 3
-                    },
-                    {
-                        "id": "fl:jo_ln:bastian-5",
-                        "name_first": "John M.",
-                        "name_last": "Bastian",
-                        "position": 1
-                    },
-                    {
-                        "id": "fl:se_ln:aceves-1",
-                        "name_first": "Seema",
-                        "name_last": "Aceves",
-                        "position": 2
-                    },
-                    {
-                        "id": "fl:ma_ln:hill-95",
-                        "name_first": "Malcolm",
-                        "name_last": "Hill",
-                        "position": 4
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "c8a494cf-16c7-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "The Regents of the University of California"
-                    },
-                    {
-                        "id": "1893009c-16c8-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "Meritage Pharma, Inc."
-                    }
-                ],
-                "year": 2017,
-                "related_documents": [
-                    {
-                        "id": "12269572",
-                        "type": "continuation"
-                    },
-                    {
-                        "id": "8679545",
-                        "type": "continuation"
-                    },
-                    {
-                        "id": "14147332",
-                        "type": "continuation"
-                    },
-                    {
-                        "id": "11595513",
-                        "type": "continuation-in-part"
-                    },
-                    {
-                        "id": "8324192",
-                        "type": "continuation-in-part"
-                    },
-                    {
-                        "id": "12269572",
-                        "type": "continuation-in-part"
-                    },
-                    {
-                        "id": "60735340",
-                        "type": "us-provisional-application"
-                    },
-                    {
-                        "id": "20140187523",
-                        "type": "related-publication"
-                    }
-                ],
-                "us_term_of_grant": [
-                    {
-                        "disclaimer_date": null
-                    }
-                ]
+    "D681395": {
+        "id": "D681395",
+        "earliest_date": "2012-07-25",
+        "abstract": null,
+        "created_date": "2013-05-07",
+        "cited_count": 18,
+        "cited_by_count": 4,
+        "title": "Interlocking container",
+        "type": "design",
+        "application": [
+            {
+                "application_id": "29/428018",
+                "application_type": "29",
+                "filing_type": "29",
+                "filing_date": "2012-07-25"
             }
-        }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ma_ln:kida-3",
+                "name_first": "Makiko",
+                "name_last": "Kida",
+                "position": 1
+            },
+            {
+                "id": "fl:ta_ln:matsumoto-15",
+                "name_first": "Tamotsu",
+                "name_last": "Matsumoto",
+                "position": 0
+            },
+            {
+                "id": "fl:ta_ln:watanabe-105",
+                "name_first": "Takuma",
+                "name_last": "Watanabe",
+                "position": 2
+            },
+            {
+                "id": "fl:ev_ln:abel-1",
+                "name_first": "Evan",
+                "name_last": "Abel",
+                "position": 3
+            }
+        ],
+        "assignees": [
+            {
+                "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Helen of Troy Limited"
+            }
+        ],
+        "year": 2013,
+        "related_documents": [],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
     },
-    "Michael Ackerman": {
-        "fl:mi_ln:ackerman-11": {
-            "6492440": {
-                "id": "6492440",
-                "earliest_date": "2000-06-09",
-                "abstract": "A product obtainable by 1) reacting a compound of the formula (&agr;) with a compound of the formula (&bgr;) in a molar ratio of 1.2:1 to 1.4:1; 2) reacting the end groups of the formula (&ggr;) being present in the product of the reaction 1) with e.g. dibutylamine in a molar ratio of 2:1.7 to 2:3; the reactions 1) and 2) being carried out in an organic solvent in the presence of an inorganic base; and 3) transferring the groups of the formula being present in the product of the reaction 2) to groups of the formula said transfer being carried out by reacting the product of the reaction 2) with a hydroperoxide in a hydrocarbon solvent in the presence of a peroxide decomposing catalyst. The products obtained are useful as light stabilizers, heat stabilizers and oxidation stabilizers for organic materials, in particular synthetic polymers such as polyolefins.",
-                "patent_date": "2002-12-10",
-                "patent_num_total_documents_cited": 20,
-                "patent_num_cited_by_us_patents": 0,
-                "patent_title": "Block oligomers containing 1-hydrocarbyloxy-2,2,6,6-tetramethyl-4-piperidyl groups as stabilizers for organic materials",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "09/424139",
-                        "application_type": "09",
-                        "filing_type": "09",
-                        "filing_date": "2000-06-09"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:je_ln:wolf-2",
-                        "name_first": "Jean-Pierre",
-                        "name_last": "Wolf",
-                        "position": 3
-                    },
-                    {
-                        "id": "fl:ni_ln:lelli-1",
-                        "name_first": "Nicola",
-                        "name_last": "Lelli",
-                        "position": 1
-                    },
-                    {
-                        "id": "fl:va_ln:borzatta-1",
-                        "name_first": "Valerio",
-                        "name_last": "Borzatta",
-                        "position": 2
-                    },
-                    {
-                        "id": "fl:ja_ln:galbo-1",
-                        "name_first": "James P.",
-                        "name_last": "Galbo",
-                        "position": 0
-                    },
-                    {
-                        "id": "fl:pi_ln:piccinelli-1",
-                        "name_first": "Piero",
-                        "name_last": "Piccinelli",
-                        "position": 5
-                    },
-                    {
-                        "id": "fl:iv_ln:orban-1",
-                        "name_first": "Ivan",
-                        "name_last": "Orban",
-                        "position": 6
-                    },
-                    {
-                        "id": "fl:mi_ln:ackerman-11",
-                        "name_first": "Michael",
-                        "name_last": "Ackerman",
-                        "position": 4
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "0bf4ce0c-16c8-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "Ciba Specialty Chemicals Corporation"
-                    }
-                ],
-                "year": 2002,
-                "related_documents": [],
-                "us_term_of_grant": []
+    "D694584": {
+        "id": "D694584",
+        "earliest_date": "2012-07-25",
+        "abstract": null,
+        "created_date": "2013-12-03",
+        "cited_count": 25,
+        "cited_by_count": 2,
+        "title": "Container configuration",
+        "type": "design",
+        "application": [
+            {
+                "application_id": "29/428016",
+                "application_type": "29",
+                "filing_type": "29",
+                "filing_date": "2012-07-25"
             }
-        },
-        "fl:mi_ln:ackerman-2": {
-            "11337637": {
-                "id": "11337637",
-                "earliest_date": "2017-08-31",
-                "abstract": "Systems, methods, devices, and techniques for analyzing and applying features of a T-wave derived from an electrocardiogram. A computing system can receive a set of data that characterizes an electrocardiogram of a patient. The system can analyze the set of data to identify a T-wave that occurs in the electrocardiogram. The system can determine values of one or more features of the T-wave and provide the information that identifies the values of the one or more features of the T-wave to a user.",
-                "patent_date": "2022-05-24",
-                "patent_num_total_documents_cited": 14,
-                "patent_num_cited_by_us_patents": 0,
-                "patent_title": "Electrocardiogram analytical tool",
-                "patent_type": "utility",
-                "application": [
-                    {
-                        "application_id": "16/329480",
-                        "application_type": "16",
-                        "filing_type": "16",
-                        "filing_date": "2017-08-31"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:sa_ln:asirvatham-1",
-                        "name_first": "Samuel J.",
-                        "name_last": "Asirvatham",
-                        "position": 10
-                    },
-                    {
-                        "id": "fl:br_ln:striemer-1",
-                        "name_first": "Bryan",
-                        "name_last": "Striemer",
-                        "position": 5
-                    },
-                    {
-                        "id": "fl:ch_ln:desimone-1",
-                        "name_first": "Christopher V.",
-                        "name_last": "DeSimone",
-                        "position": 12
-                    },
-                    {
-                        "id": "fl:ke_ln:bennet-4",
-                        "name_first": "Kevin E.",
-                        "name_last": "Bennet",
-                        "position": 8
-                    },
-                    {
-                        "id": "fl:vi_ln:somers-1",
-                        "name_first": "Virend K.",
-                        "name_last": "Somers",
-                        "position": 7
-                    },
-                    {
-                        "id": "fl:ch_ln:bruce-6",
-                        "name_first": "Charles J.",
-                        "name_last": "Bruce",
-                        "position": 6
-                    },
-                    {
-                        "id": "fl:va_ln:kremen-1",
-                        "name_first": "Vaclav",
-                        "name_last": "Kremen",
-                        "position": 4
-                    },
-                    {
-                        "id": "fl:pa_ln:friedman-3",
-                        "name_first": "Paul A.",
-                        "name_last": "Friedman",
-                        "position": 2
-                    },
-                    {
-                        "id": "fl:bo_ln:qiang-2",
-                        "name_first": "Bo",
-                        "name_last": "Qiang",
-                        "position": 1
-                    },
-                    {
-                        "id": "fl:pe_ln:noseworthy-1",
-                        "name_first": "Peter A.",
-                        "name_last": "Noseworthy",
-                        "position": 0
-                    },
-                    {
-                        "id": "fl:al_ln:sugrue-1",
-                        "name_first": "Alan M.",
-                        "name_last": "Sugrue",
-                        "position": 3
-                    },
-                    {
-                        "id": "fl:mi_ln:ackerman-2",
-                        "name_first": "Michael",
-                        "name_last": "Ackerman",
-                        "position": 9
-                    },
-                    {
-                        "id": "fl:jo_ln:dillon-3",
-                        "name_first": "John J.",
-                        "name_last": "Dillon",
-                        "position": 11
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "df5dffc5-16c7-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "Mayo Foundation for Medical Education and Research"
-                    }
-                ],
-                "year": 2022,
-                "related_documents": [
-                    {
-                        "id": "62382082",
-                        "type": "us-provisional-application"
-                    },
-                    {
-                        "id": "20210275080",
-                        "type": "related-publication"
-                    }
-                ],
-                "us_term_of_grant": [
-                    {
-                        "disclaimer_date": null
-                    }
-                ]
+        ],
+        "inventors": [
+            {
+                "id": "fl:ma_ln:kida-3",
+                "name_first": "Makiko",
+                "name_last": "Kida",
+                "position": 1
+            },
+            {
+                "id": "fl:ta_ln:matsumoto-15",
+                "name_first": "Tamotsu",
+                "name_last": "Matsumoto",
+                "position": 0
+            },
+            {
+                "id": "fl:ta_ln:watanabe-105",
+                "name_first": "Takuma",
+                "name_last": "Watanabe",
+                "position": 2
+            },
+            {
+                "id": "fl:ev_ln:abel-1",
+                "name_first": "Evan",
+                "name_last": "Abel",
+                "position": 3
             }
-        }
+        ],
+        "assignees": [
+            {
+                "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Helen of Troy Limited"
+            }
+        ],
+        "year": 2013,
+        "related_documents": [],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
     },
-    "Peter Adam": {
-        "fl:pe_ln:adam-2": {
-            "D694817": {
-                "id": "D694817",
-                "earliest_date": "2012-01-31",
-                "abstract": null,
-                "patent_date": "2013-12-03",
-                "patent_num_total_documents_cited": 13,
-                "patent_num_cited_by_us_patents": 24,
-                "patent_title": "Label printer",
-                "patent_type": "design",
-                "application": [
-                    {
-                        "application_id": "29/412139",
-                        "application_type": "29",
-                        "filing_type": "29",
-                        "filing_date": "2012-01-31"
-                    }
-                ],
-                "inventors": [
-                    {
-                        "id": "fl:pe_ln:adam-2",
-                        "name_first": "Peter",
-                        "name_last": "Adam",
-                        "position": 0
-                    },
-                    {
-                        "id": "fl:la_ln:srnka-1",
-                        "name_first": "Lawrence",
-                        "name_last": "Srnka",
-                        "position": 2
-                    },
-                    {
-                        "id": "fl:pe_ln:botten-2",
-                        "name_first": "Peter",
-                        "name_last": "Botten",
-                        "position": 1
-                    }
-                ],
-                "assignees": [
-                    {
-                        "id": "f2f19dd5-16c7-11ed-9b5f-1234bde3cd05",
-                        "name_first": null,
-                        "name_last": null,
-                        "organization": "CODONICS, INC."
-                    }
-                ],
-                "year": 2013,
-                "related_documents": [],
-                "us_term_of_grant": [
-                    {
-                        "disclaimer_date": null
-                    }
-                ]
+    "D694585": {
+        "id": "D694585",
+        "earliest_date": "2012-08-23",
+        "abstract": null,
+        "created_date": "2013-12-03",
+        "cited_count": 25,
+        "cited_by_count": 4,
+        "title": "Container configuration",
+        "type": "design",
+        "application": [
+            {
+                "application_id": "29/430267",
+                "application_type": "29",
+                "filing_type": "29",
+                "filing_date": "2012-08-23"
             }
-        }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ma_ln:kida-3",
+                "name_first": "Makiko",
+                "name_last": "Kida",
+                "position": 1
+            },
+            {
+                "id": "fl:ta_ln:matsumoto-15",
+                "name_first": "Tamotsu",
+                "name_last": "Matsumoto",
+                "position": 0
+            },
+            {
+                "id": "fl:ta_ln:watanabe-105",
+                "name_first": "Takuma",
+                "name_last": "Watanabe",
+                "position": 2
+            },
+            {
+                "id": "fl:ev_ln:abel-1",
+                "name_first": "Evan",
+                "name_last": "Abel",
+                "position": 3
+            }
+        ],
+        "assignees": [
+            {
+                "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Helen of Troy Limited"
+            }
+        ],
+        "year": 2013,
+        "related_documents": [],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
+    },
+    "D694628": {
+        "id": "D694628",
+        "earliest_date": "2012-08-23",
+        "abstract": null,
+        "created_date": "2013-12-03",
+        "cited_count": 25,
+        "cited_by_count": 3,
+        "title": "Container configuration",
+        "type": "design",
+        "application": [
+            {
+                "application_id": "29/430266",
+                "application_type": "29",
+                "filing_type": "29",
+                "filing_date": "2012-08-23"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ma_ln:kida-3",
+                "name_first": "Makiko",
+                "name_last": "Kida",
+                "position": 1
+            },
+            {
+                "id": "fl:ta_ln:matsumoto-15",
+                "name_first": "Tamotsu",
+                "name_last": "Matsumoto",
+                "position": 0
+            },
+            {
+                "id": "fl:ta_ln:watanabe-105",
+                "name_first": "Takuma",
+                "name_last": "Watanabe",
+                "position": 2
+            },
+            {
+                "id": "fl:ev_ln:abel-1",
+                "name_first": "Evan",
+                "name_last": "Abel",
+                "position": 3
+            }
+        ],
+        "assignees": [
+            {
+                "id": "3888549d-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Helen of Troy Limited"
+            }
+        ],
+        "year": 2013,
+        "related_documents": [],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
+    },
+    "10783448": {
+        "id": "10783448",
+        "earliest_date": "2016-07-15",
+        "abstract": "Methods, systems, and apparatus, including computer programs encoded on computer storage media, to present a video. One of the methods includes obtaining one or more unstructured documents. The method includes obtaining, by a computer system, a data model, the data model identifying a type of fact that can be determined from the one or more unstructured documents. The method includes determining, by the computer system, a channel to extract facts from the document based on the type of fact. The method includes distributing, by the computer system, the one or more unstructured documents to the channel. The method includes extracting, by the channel, facts from the one or more unstructured documents. The method also includes storing the facts in a data model.",
+        "created_date": "2020-09-22",
+        "cited_count": 10,
+        "cited_by_count": 0,
+        "title": "Extracting facts from unstructured data",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "15/211250",
+                "application_type": "15",
+                "filing_type": "15",
+                "filing_date": "2016-07-15"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:la_ln:ellsworth-1",
+                "name_first": "Lauren",
+                "name_last": "Ellsworth",
+                "position": 9
+            },
+            {
+                "id": "fl:na_ln:nussbaum-1",
+                "name_first": "Nathan",
+                "name_last": "Nussbaum",
+                "position": 18
+            },
+            {
+                "id": "fl:je_ln:feinstein-1",
+                "name_first": "Jeremy",
+                "name_last": "Feinstein",
+                "position": 11
+            },
+            {
+                "id": "fl:ro_ln:feinstein-1",
+                "name_first": "Ross",
+                "name_last": "Feinstein",
+                "position": 10
+            },
+            {
+                "id": "fl:za_ln:weinberg-2",
+                "name_first": "Zachary",
+                "name_last": "Weinberg",
+                "position": 24
+            },
+            {
+                "id": "fl:me_ln:tucker-5",
+                "name_first": "Melisa",
+                "name_last": "Tucker",
+                "position": 22
+            },
+            {
+                "id": "fl:pa_ln:richardson-8",
+                "name_first": "Paul",
+                "name_last": "Richardson",
+                "position": 20
+            },
+            {
+                "id": "fl:ca_ln:keenan-1",
+                "name_first": "Caitlin",
+                "name_last": "Keenan",
+                "position": 12
+            },
+            {
+                "id": "fl:jo_ln:dilallo-2",
+                "name_first": "Joseph",
+                "name_last": "DiLallo",
+                "position": 6
+            },
+            {
+                "id": "fl:ca_ln:miller-39",
+                "name_first": "Catherine",
+                "name_last": "Miller",
+                "position": 16
+            },
+            {
+                "id": "fl:je_ln:kohansimeh-1",
+                "name_first": "Jeremy",
+                "name_last": "Kohansimeh",
+                "position": 13
+            },
+            {
+                "id": "fl:de_ln:lee-78",
+                "name_first": "Dennis J.",
+                "name_last": "Lee",
+                "position": 14
+            },
+            {
+                "id": "fl:pa_ln:you-1",
+                "name_first": "Paul",
+                "name_last": "You",
+                "position": 25
+            },
+            {
+                "id": "fl:be_ln:birnbaum-2",
+                "name_first": "Benjamin Edward",
+                "name_last": "Birnbaum",
+                "position": 2
+            },
+            {
+                "id": "fl:cy_ln:revol-1",
+                "name_first": "Cynthia",
+                "name_last": "Revol",
+                "position": 19
+            },
+            {
+                "id": "fl:gi_ln:shklarski-1",
+                "name_first": "Gil",
+                "name_last": "Shklarski",
+                "position": 0
+            },
+            {
+                "id": "fl:el_ln:meerson-1",
+                "name_first": "Elijah",
+                "name_last": "Meerson",
+                "position": 15
+            },
+            {
+                "id": "fl:ge_ln:calkins-2",
+                "name_first": "Geoffrey",
+                "name_last": "Calkins",
+                "position": 3
+            },
+            {
+                "id": "fl:am_ln:abernethy-1",
+                "name_first": "Amy",
+                "name_last": "Abernethy",
+                "position": 1
+            },
+            {
+                "id": "fl:jo_ln:delgado-5",
+                "name_first": "Joseph",
+                "name_last": "Delgado",
+                "position": 5
+            },
+            {
+                "id": "fl:ma_ln:roth-2",
+                "name_first": "Maayan",
+                "name_last": "Roth",
+                "position": 21
+            },
+            {
+                "id": "fl:da_ln:eisenberg-1",
+                "name_first": "Daniel",
+                "name_last": "Eisenberg",
+                "position": 8
+            },
+            {
+                "id": "fl:do_ln:connolly-1",
+                "name_first": "Dominique",
+                "name_last": "Connolly",
+                "position": 4
+            },
+            {
+                "id": "fl:jo_ln:mou-1",
+                "name_first": "Joseph",
+                "name_last": "Mou",
+                "position": 17
+            },
+            {
+                "id": "fl:na_ln:turner-1",
+                "name_first": "Nathaniel",
+                "name_last": "Turner",
+                "position": 23
+            },
+            {
+                "id": "fl:ja_ln:dura-1",
+                "name_first": "James",
+                "name_last": "Dura",
+                "position": 7
+            }
+        ],
+        "assignees": [
+            {
+                "id": "92237ca2-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Flatiron Health, Inc."
+            }
+        ],
+        "year": 2020,
+        "related_documents": [
+            {
+                "id": "62202597",
+                "type": "us-provisional-application"
+            },
+            {
+                "id": "20170039341",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
+    },
+    "5650487": {
+        "id": "5650487",
+        "earliest_date": "1995-05-31",
+        "abstract": "Previously unisolated serum immunoregulatory polypeptides (SIPs) having a molecular weight of approximately 14,000 to 31,000 are provided. The SIPs may be obtained from hemorrhagic serum of mammals and have been shown to activate suppressor T-cells and suppress lymphocyte proliferation and interleukin production. There is a significant homology between SIPs of different mammalian species. The amino acid sequence of an SIP having a molecular weight of about 16,000 is provided. In addition, immunosuppressive polypeptides are identified which have the formula: EQU X-Met-Asp-Ala-His-Pro-Pro-Arg-Leu-Phe-Ala-Cys-Ser-Y wherein X is an amino acid sequence having from 0 to 10 amino acids and Y is an amino acid sequence having from 0 to 110 amino acids.",
+        "created_date": "1997-07-22",
+        "cited_count": 0,
+        "cited_by_count": 2,
+        "title": "Serum immunoregulatory polypeptides and uses therefor",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "08/455645",
+                "application_type": "08",
+                "filing_type": "08",
+                "filing_date": "1995-05-31"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ed_ln:abraham-3",
+                "name_first": "Edward",
+                "name_last": "Abraham",
+                "position": 1
+            },
+            {
+                "id": "fl:yi_ln:chang-200",
+                "name_first": "Yi",
+                "name_last": "Chang",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "c8a494cf-16c7-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "The Regents of the University of California"
+            }
+        ],
+        "year": 1997,
+        "related_documents": [],
+        "us_term_of_grant": [],
+        "api": "patentsView"
+    },
+    "5973122": {
+        "id": "5973122",
+        "earliest_date": "1997-07-10",
+        "abstract": "Previously unisolated serum immunoregulatory polypeptides (SIPs) having a molecular weight of approximately 14,000 to 31,000 are provided. The SIPs may be obtained from hemorrhagic serum of mammals and have been shown to activate suppressor T-cells and suppress lymphocyte proliferation and interleukin production. There is a significant homology between SIPs of different mammalian species. The amino acid sequence of an SIP having a molecular weight of about 16,000 is provided. In addition, immunosuppressive polypeptides are identified which have the formula (SEQ ID NO:2): EQU X-Met-Asp-Ala-His-Pro-Pro-Arg-Leu-Phe-Ala-Cys-Ser-Y wherein X is an amino acid sequence having from 0 to 10 amino acids and Y is an amino acid sequence having from 0 to 110 amino acids.",
+        "created_date": "1999-10-26",
+        "cited_count": 2,
+        "cited_by_count": 1,
+        "title": "Serum immunoregulatory polypeptides and uses therefor",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "08/891056",
+                "application_type": "08",
+                "filing_type": "08",
+                "filing_date": "1997-07-10"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ed_ln:abraham-3",
+                "name_first": "Edward",
+                "name_last": "Abraham",
+                "position": 1
+            },
+            {
+                "id": "fl:yi_ln:chang-200",
+                "name_first": "Yi",
+                "name_last": "Chang",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "c8a494cf-16c7-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "The Regents of the University of California"
+            }
+        ],
+        "year": 1999,
+        "related_documents": [],
+        "us_term_of_grant": [],
+        "api": "patentsView"
+    },
+    "6057328": {
+        "id": "6057328",
+        "earliest_date": "1997-12-31",
+        "abstract": "Disclosed are methods for treating conditions resulting from hyperoxia or mechanical ventilation comprising the administration of a compound of the formula: ##STR1## wherein R.sub.1 is a substantially pure resolved R enantiomer .omega.-1, secondary alcohol-substituted (C.sub.5-8) alkyl; and R.sub.2 and R.sub.3 are independently hydrogen atom or a (C.sub.1-12) alkyl optionally containing one or two oxygen atoms in place of non-adjacent carbon atoms.",
+        "created_date": "2000-05-02",
+        "cited_count": 2,
+        "cited_by_count": 1,
+        "title": "Method for treating hyperoxia",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "09/001373",
+                "application_type": "09",
+                "filing_type": "09",
+                "filing_date": "1997-12-31"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ja_ln:singer-10",
+                "name_first": "Jack",
+                "name_last": "Singer",
+                "position": 0
+            },
+            {
+                "id": "fl:ed_ln:abraham-3",
+                "name_first": "Edward",
+                "name_last": "Abraham",
+                "position": 1
+            }
+        ],
+        "assignees": [
+            {
+                "id": "5836da24-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Cell Therapeutics, Inc."
+            }
+        ],
+        "year": 2000,
+        "related_documents": [],
+        "us_term_of_grant": [],
+        "api": "patentsView"
+    },
+    "7148210": {
+        "id": "7148210",
+        "earliest_date": "2003-10-15",
+        "abstract": "The invention provides a drug combination for the treatment of diseases associated with bone metastasis. The combination provides adenosine or a derivative thereof, a bisphosphonate, and a targeting agent(s) to decrease the signs or symptoms associated with such diseases.",
+        "created_date": "2006-12-12",
+        "cited_count": 6,
+        "cited_by_count": 5,
+        "title": "Method of treating bone metastasis",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "10/687102",
+                "application_type": "10",
+                "filing_type": "10",
+                "filing_date": "2003-10-15"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ed_ln:abraham-3",
+                "name_first": "Edward",
+                "name_last": "Abraham",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "3b270591-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "Trustees of Dartmouth College"
+            }
+        ],
+        "year": 2006,
+        "related_documents": [
+            {
+                "id": "60418797",
+                "type": "us-provisional-application"
+            },
+            {
+                "id": "20040116375",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
+    },
+    "8119128": {
+        "id": "8119128",
+        "earliest_date": "2005-10-28",
+        "abstract": "Anti-uPA antibodies and antigen-binding regions thereof, as well as pharmaceutical compositions comprising such antibodies and antigen-binding regions, are described. Also described are methods of using such antibodies and antigen-binding regions to bind uPA epitopes and activate uPA function, such as inhibition of uPA mediated inflammation. Epitopes that can be used to activate uPA function and anti-inflammation activity are also described, as well as methods of identifying compounds that can bind them.",
+        "created_date": "2012-02-21",
+        "cited_count": 11,
+        "cited_by_count": 1,
+        "title": "Antibodies that bind urokinase-type plasminogen activator and epitopes therefor",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "11/718094",
+                "application_type": "11",
+                "filing_type": "11",
+                "filing_date": "2005-10-28"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ed_ln:abraham-3",
+                "name_first": "Edward",
+                "name_last": "Abraham",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "d1be55cf-16c7-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "The Regents of the University of Colorado, a body corporate"
+            }
+        ],
+        "year": 2012,
+        "related_documents": [
+            {
+                "id": "60623188",
+                "type": "us-provisional-application"
+            },
+            {
+                "id": "20090232799",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
+    },
+    "8420049": {
+        "id": "8420049",
+        "earliest_date": "2012-02-17",
+        "abstract": "Radiolabeled adenosine or radiolabeled adenosine containing molecules for use in positron emission tomography for assessing alterations in adenylate metabolism in a patient are provided.",
+        "created_date": "2013-04-16",
+        "cited_count": 8,
+        "cited_by_count": 0,
+        "title": "Labeled adenosine for use in positron emission tomography",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "13/399642",
+                "application_type": "13",
+                "filing_type": "13",
+                "filing_date": "2012-02-17"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ed_ln:abraham-3",
+                "name_first": "Edward",
+                "name_last": "Abraham",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "3b270591-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": "Edward H.",
+                "name_last": "Abraham",
+                "organization": null
+            }
+        ],
+        "year": 2013,
+        "related_documents": [
+            {
+                "id": "10995061",
+                "type": "division"
+            },
+            {
+                "id": "13399642",
+                "type": "division"
+            },
+            {
+                "id": "PCT/US03/16159",
+                "type": "continuation"
+            },
+            {
+                "id": "10995061",
+                "type": "continuation"
+            },
+            {
+                "id": "60382534",
+                "type": "us-provisional-application"
+            },
+            {
+                "id": "20120207678",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [],
+        "api": "patentsView"
+    },
+    "5283967": {
+        "id": "5283967",
+        "earliest_date": "1992-06-15",
+        "abstract": "A multi-purpose, front-loading display frame includes a front frame member having a window section for viewing a display item disposed therebehind and a rear frame member for releasably supporting at least one interchangeable display item. The front frame member is hingedly secured to the rear frame member so as to allow for pivotable movement of the frame members between a closed position, in which the frame members are disposed closely adjacent to one another so that a display item supported on the rear frame member is disposed behind the window section for viewing, and an open position, in which the frame members are pivoted apart from one another to permit removal and replacement of the display item. A closure member is mounted on at least one of the front and rear frame members for releasably maintaining the front and rear frame members in the closed position thereof. The closure member is positioned to allow the front frame member to be swung open while the rear frame member is still mounted on a support.",
+        "created_date": "1994-02-08",
+        "cited_count": 11,
+        "cited_by_count": 25,
+        "title": "Multi-purpose display frame",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "07/897922",
+                "application_type": "07",
+                "filing_type": "07",
+                "filing_date": "1992-06-15"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ch_ln:abrams-1",
+                "name_first": "Charles",
+                "name_last": "Abrams",
+                "position": 0
+            }
+        ],
+        "assignees": [],
+        "year": 1994,
+        "related_documents": [],
+        "us_term_of_grant": [],
+        "api": "patentsView"
+    },
+    "7360330": {
+        "id": "7360330",
+        "earliest_date": "2005-01-18",
+        "abstract": "A multi-purpose, front-loading display frame includes a front frame member having a pair of opposite first and second lateral side sections, a rear frame member having a pair of opposite first and second lateral side sections, at least one hinge for pivotally joining the first lateral side section of the front member to the first side section of the rear frame member to permit pivotal movement between an open position, in which the second side sections of the front and rear frame members may be pivoted apart from one another, and a closed position, in which the second side sections are disposed closely adjacent to one another. A lock is mounted on one of the second side sections of one of the front and rear frame members, and at least one latch plate is engageable with the lock. The latch plate is mounted on the other of the second side sections of the other of the front and rear frame members for cooperative engagement with the lock. One of the lock and the latch plate is fixed and the other is generally vertically reciprocable so that, when the front frame member and the rear frame members are in the closed position, one of the lock and latch plate is reciprocably moveable relative to the other for movement between a normally locked and a release position, respectively.",
+        "created_date": "2008-04-22",
+        "cited_count": 6,
+        "cited_by_count": 1,
+        "title": "Multi-purpose display frame with gravity lock",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "11/037594",
+                "application_type": "11",
+                "filing_type": "11",
+                "filing_date": "2005-01-18"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ch_ln:abrams-1",
+                "name_first": "Charles",
+                "name_last": "Abrams",
+                "position": 0
+            }
+        ],
+        "assignees": [],
+        "year": 2008,
+        "related_documents": [
+            {
+                "id": "20060156605",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
+    },
+    "10507237": {
+        "id": "10507237",
+        "earliest_date": "2015-06-19",
+        "abstract": "The present invention provides an attenuated African Swine Fever (ASF) virus which lacks a functional version of the following genes: multigene-family 360 genes 9L, 10L, 11L, 12L, 13L and 14L; and multigene-family 505 genes 1R, 2R, 3R and 4R. The invention further provides an attenuated African Swine Fever (ASF) virus which lacks a functional version of the DP148R gene. The present invention also provides a vaccine comprising such an attenuated virus and its use to prevent ASF. Further, the invention relates to intranasal administration of an attenuated ASF virus.",
+        "created_date": "2019-12-17",
+        "cited_count": 2,
+        "cited_by_count": 1,
+        "title": "Attenuated African swine fever virus vaccine",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "15/319856",
+                "application_type": "15",
+                "filing_type": "15",
+                "filing_date": "2015-06-19"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:pe_ln:sanchezcordon-1",
+                "name_first": "Pedro",
+                "name_last": "Sanchez-Cordon",
+                "position": 5
+            },
+            {
+                "id": "fl:li_ln:dixon-2",
+                "name_first": "Linda H.",
+                "name_last": "Dixon",
+                "position": 3
+            },
+            {
+                "id": "fl:an_ln:reis-1",
+                "name_first": "Ana-Luisa",
+                "name_last": "Reis",
+                "position": 1
+            },
+            {
+                "id": "fl:ch_ln:netherton-2",
+                "name_first": "Chris",
+                "name_last": "Netherton",
+                "position": 2
+            },
+            {
+                "id": "fl:ch_ln:abrams-2",
+                "name_first": "Charles",
+                "name_last": "Abrams",
+                "position": 0
+            },
+            {
+                "id": "fl:da_ln:chapman-39",
+                "name_first": "Dave",
+                "name_last": "Chapman",
+                "position": 4
+            }
+        ],
+        "assignees": [
+            {
+                "id": "b8f26fc8-16c7-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "THE PIRBRIGHT INSTITUTE"
+            }
+        ],
+        "year": 2019,
+        "related_documents": [
+            {
+                "id": "20170136114",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [],
+        "api": "patentsView"
+    },
+    "11331383": {
+        "id": "11331383",
+        "earliest_date": "2019-10-30",
+        "abstract": "The present invention provides an attenuated African Swine Fever (ASF) virus which lacks a functional version of the following genes:      The invention further provides an attenuated African Swine Fever (ASF) virus which Lacks a functional version of the DP148R gene. The present invention also provides a vaccine comprising such an attenuated virus and its use to prevent ASF. Further, the invention relates to intranasal administration of an attenuated ASF virus.",
+        "created_date": "2022-05-17",
+        "cited_count": 4,
+        "cited_by_count": 0,
+        "title": "Attenuated african swine fever virus vaccine",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "16/668384",
+                "application_type": "16",
+                "filing_type": "16",
+                "filing_date": "2019-10-30"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:da_ln:chapman-35",
+                "name_first": "Danny Keith",
+                "name_last": "Chapman",
+                "position": 4
+            },
+            {
+                "id": "fl:li_ln:dixon-3",
+                "name_first": "Linda",
+                "name_last": "Dixon",
+                "position": 3
+            },
+            {
+                "id": "fl:pe_ln:sanchezcordon-1",
+                "name_first": "Pedro",
+                "name_last": "Sanchez-Cordon",
+                "position": 5
+            },
+            {
+                "id": "fl:an_ln:reis-1",
+                "name_first": "Ana-Luisa",
+                "name_last": "Reis",
+                "position": 1
+            },
+            {
+                "id": "fl:ch_ln:netherton-2",
+                "name_first": "Chris",
+                "name_last": "Netherton",
+                "position": 2
+            },
+            {
+                "id": "fl:ch_ln:abrams-2",
+                "name_first": "Charles",
+                "name_last": "Abrams",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "b8f26fc8-16c7-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "THE PIRBRIGHT INSTITUTE"
+            }
+        ],
+        "year": 2022,
+        "related_documents": [
+            {
+                "id": "15319856",
+                "type": "continuation"
+            },
+            {
+                "id": "10507237",
+                "type": "continuation"
+            },
+            {
+                "id": "PCT/GB2015/051798",
+                "type": "continuation"
+            },
+            {
+                "id": "16668384",
+                "type": "continuation"
+            },
+            {
+                "id": "20200129609",
+                "type": "related-publication"
+            }
+        ],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
+    },
+    "4519765": {
+        "id": "4519765",
+        "earliest_date": "1983-10-27",
+        "abstract": "An improved mold is provided having an abrasion-resistant reinforcing means disposed at the junction between the mold and a rotating means for resisting wear occurring therebetween as a result of the installation of the mold on a rotating wheel. Preferably, the reinforcing means comprises a hardened plastic ring having a smooth surface facing the drive wheel, and the ring is partially embedded into the mold to attach it to said mold.",
+        "created_date": "1985-05-28",
+        "cited_count": 4,
+        "cited_by_count": 1,
+        "title": "Mold",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "06/545921",
+                "application_type": "06",
+                "filing_type": "06",
+                "filing_date": "1983-10-27"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:ch_ln:abrams-2",
+                "name_first": "Charles",
+                "name_last": "Abrams",
+                "position": 0
+            }
+        ],
+        "assignees": [],
+        "year": 1985,
+        "related_documents": [],
+        "us_term_of_grant": [],
+        "api": "patentsView"
+    },
+    "10664133": {
+        "id": "10664133",
+        "earliest_date": "2018-01-24",
+        "abstract": "A method for autolinking hierarchies is provided. The method includes receiving an initial hierarchy and a final hierarchy. The method includes determining a set of links from the initial and final hierarchies. The method includes, for each link from the set of links, identifying an unlinked child node from the initial hierarchy of a particular link. The method includes determining a match between the unlinked child node to a second unlinked child node from the final hierarchy of the particular link. The method includes generating a link between the unlinked child node to the second unlinked child node. The method includes providing a new set of links based on the generated link and the set of links. The method includes generating a transition hierarchy based on the new set of links, and the initial and final hierarchies. The method includes generating an animation based on the transition hierarchy.",
+        "created_date": "2020-05-26",
+        "cited_count": 7,
+        "cited_by_count": 0,
+        "title": "Automated linking and merging of hierarchical data structures for animated transitions",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "15/879393",
+                "application_type": "15",
+                "filing_type": "15",
+                "filing_date": "2018-01-24"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:jo_ln:rowny-2",
+                "name_first": "Jonathan",
+                "name_last": "Rowny",
+                "position": 0
+            },
+            {
+                "id": "fl:do_ln:abrams-1",
+                "name_first": "Donald",
+                "name_last": "Abrams",
+                "position": 1
+            },
+            {
+                "id": "h5zyraomrr7vlzygju8ztog62",
+                "name_first": "Tom",
+                "name_last": "Giannattasio",
+                "position": 2
+            }
+        ],
+        "assignees": [
+            {
+                "id": "92237ca2-16c8-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "InVisionApp Inc."
+            }
+        ],
+        "year": 2020,
+        "related_documents": [],
+        "us_term_of_grant": [
+            {
+                "disclaimer_date": null
+            }
+        ],
+        "api": "patentsView"
+    },
+    "4142092": {
+        "id": "4142092",
+        "earliest_date": "1978-01-05",
+        "abstract": "A cabinet heater installation particularly adapted for field repair of refrigerator cabinet warming heaters or for a supplemental cabinet heater for severe humidity conditions. The installation includes a heater element installed about the exterior lateral and top surfaces of the cabinet outer case adjacent the outer case reentrant flanges. The heater cable is housed within a protective and decorative trim channel secured to the cabinet outer case. The electrical leads for the heating element pass into the machine compartment for connections to the power supply through openings located beneath the trim channel.",
+        "created_date": "1979-02-27",
+        "cited_count": 6,
+        "cited_by_count": 9,
+        "title": "Refrigerator cabinet case heater installation",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "05/867206",
+                "application_type": "05",
+                "filing_type": "05",
+                "filing_date": "1978-01-05"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:do_ln:abrams-1",
+                "name_first": "Donald",
+                "name_last": "Abrams",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "e0ed625f-16c7-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "General Electric Company"
+            }
+        ],
+        "year": 1979,
+        "related_documents": [],
+        "us_term_of_grant": [],
+        "api": "patentsView"
+    },
+    "4180297": {
+        "id": "4180297",
+        "earliest_date": "1977-09-22",
+        "abstract": "A sealing grommet is utilized to form a seal for articles such as electrical wires passing through the outer case of a refrigerator cabinet, the insulation, particularly foam insulation, between the outer case and the inner liner of the cabinet, and the inner liner. The grommet includes a substantially cylindrically shaped hollow body of a relatively rigid material disposed between the inner liner and the outer wall with a core of a relatively soft material supported by the inner surface of the body and secured thereto by glue, for example. Each of the body and the core is split longitudinally to receive the electrical wires with the core having a central longitudinal passage extending therethrough for an interference fit with the electrical wires. An integral mounting flange and a plurality of spaced locking lugs cooperate to mount the body on the inner liner. A separate grommet can be utilized at the outer case with the core having a sufficient length to extend into engagement with the adjacent surface of the separate grommet so that the core has a seal with the outer case through the separate grommet having a seal with the outer case. The body could have a mounting flange, similar to the mounting flange cooperating with the inner liner, for cooperation with the outer case rather than a separate grommet being employed.",
+        "created_date": "1979-12-25",
+        "cited_count": 7,
+        "cited_by_count": 43,
+        "title": "Sealing grommet in a refrigerator cabinet",
+        "type": "utility",
+        "application": [
+            {
+                "application_id": "05/835946",
+                "application_type": "05",
+                "filing_type": "05",
+                "filing_date": "1977-09-22"
+            }
+        ],
+        "inventors": [
+            {
+                "id": "fl:do_ln:abrams-1",
+                "name_first": "Donald",
+                "name_last": "Abrams",
+                "position": 0
+            }
+        ],
+        "assignees": [
+            {
+                "id": "e0ed625f-16c7-11ed-9b5f-1234bde3cd05",
+                "name_first": null,
+                "name_last": null,
+                "organization": "General Electric Company"
+            }
+        ],
+        "year": 1979,
+        "related_documents": [],
+        "us_term_of_grant": [],
+        "api": "patentsView"
     }
 }
